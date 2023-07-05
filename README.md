@@ -1,7 +1,7 @@
 # AI-Generated Images as Data Source: The Dawn of Synthetic Era
 This project is associated with our survey paper which comprehensively contextualizes the advance of the recent AI-Generated Images as Data Source (AIDS) and presents a view of the synthetic era in deep learning.
 
-**AI-Generated Images as Data Source: The Dawn of Synthetic Era** » [Paper]
+**AI-Generated Images as Data Source: The Dawn of Synthetic Era** » [[Paper Overleaf link](https://www.overleaf.com/2721143181hysckdgbdyqd)]
 
 You are welcome to promote papers via pull request.
 The process to submit a pull request:
