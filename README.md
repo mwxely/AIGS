@@ -30,40 +30,51 @@ Mathematics 2022 [[Paper](https://www.mdpi.com/2227-7390/10/15/2733)]
 
 ## Table of Contents (Work in Progress)
 Synthetic Data for Training:
-- Labelled Data Generation
-- Unlabelled Data Generation
-- Data Augmentation
+- [Labelled Data Generation](#LabelledDataGeneration-link)
+- [Unlabelled Data Generation](#UnlabelledDataGeneration-link)
+- [Data Augmentation](#DataAugmentation-link)
 
 Synthetic Data Application:
-- Self-supervised Learning
-- Visual Understanding
-  - Classification
-  - Segmentation
-  - Detection
-- Visual Generation
-- Robotics
+- [Self-supervised Learning](#SelfsupervisedLearning-link)
+- [Visual Understanding](#VisualUnderstanding-link)
+  - [Classification](#Classification-link)
+  - [Segmentation](#Segmentation-link)
+  - [Detection](#Detection-link)
+- [Visual Generation](#VisualGeneration-link)
+- [Robotics](#Robotics-link)
 
 Datasets:
-- Datasets
+- [Datasets](#Datasets-link)
 
 ## Labelled Data Generation
+<a id="LabelledDataGeneration-link"></a>
 
 ## Unlabelled Data Generation
+<a id="UnlabelledDataGeneration-link"></a>
 
 ## Data Augmentation
+<a id="DataAugmentation-link"></a>
 
 ## Self-supervised Learning
+<a id="SelfsupervisedLearning-link"></a>
 
 ## Visual Understanding
+<a id="VisualUnderstanding-link"></a>
 
 ### Classification
+<a id="Classification-link"></a>
 
 ### Segmentation
+<a id="Segmentation-link"></a>
 
 ### Detection
+<a id="Detection-link"></a>
 
 ## Visual Generation
+<a id="VisualGeneration-link"></a>
 
 ## Robotics
+<a id="Robotics-link"></a>
 
 ## Datasets
+<a id="Datasets-link"></a>
