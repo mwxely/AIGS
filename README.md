@@ -18,11 +18,11 @@ The process to submit a pull request:
 ## Related Surveys & Projects
 **Machine Learning for Synthetic Data Generation: A Review**  
 *Yingzhou Lu, Minjie Shen, Huazheng Wang, Wenqi Wei*  
-arXiv Preprint [[Paper](https://arxiv.org/abs/2302.04062)]
+arXiv 2023 [[Paper](https://arxiv.org/abs/2302.04062)]
 
 **Synthetic Data in Human Analysis: A Survey**  
 *Indu Joshi, Marcel Grimmer, Christian Rathgeb, Christoph Busch, Francois Bremond, Antitza Dantcheva*  
-arXiv Preprint [[Paper](https://arxiv.org/abs/2208.09191)]
+arXiv 2022 [[Paper](https://arxiv.org/abs/2208.09191)]
 
 **Survey on Synthetic Data Generation, Evaluation Methods and GANs**  
 *Alvaro Figueira, Bruno Vaz*  
@@ -54,27 +54,64 @@ Datasets:
 
 ## Data Augmentation
 <a id="DataAugmentation-link"></a>
+**A data augmentation perspective on diffusion models and retrieval**  
+*Max F. Burg, Florian Wenzel, Dominik Zietlow, Max Horn, Osama Makansi, Francesco Locatello, Chris Russell*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2304.10253)]
+
+**Effective Data Augmentation With Diffusion Models**  
+*Brandon Trabucco, Kyle Doherty, Max Gurinas, Ruslan Salakhutdinov*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2302.07944)][[Project](http://btrabuc.co/da-fusion/)]
 
 ## Self-supervised Learning
 <a id="SelfsupervisedLearning-link"></a>
+**Generative Models as a Data Source for Multiview Representation Learning**  
+*Ali Jahanian, Xavier Puig, Yonglong Tian, Phillip Isola*  
+ICLR 2022 [[Paper](https://arxiv.org/abs/2106.05258)][[Project](https://ali-design.github.io/GenRep/)][[Code](https://github.com/ali-design/GenRep)][[Video](https://www.youtube.com/watch?v=qYmGvVrGZno)]
 
 ## Visual Understanding
 <a id="VisualUnderstanding-link"></a>
 
 ### Classification
 <a id="Classification-link"></a>
+**Is synthetic data from generative models ready for image recognition?**  
+*Ruifei He, Shuyang Sun, Xin Yu, Chuhui Xue, Wenqing Zhang, Philip Torr, Song Bai, Xiaojuan Qi*  
+ICLR 2023 [[Paper](https://arxiv.org/abs/2206.09592)][[Code](https://github.com/CVMI-Lab/SyntheticData)]
+
+**Synthetic Data from Diffusion Models Improves ImageNet Classification**
+*Shekoofeh Azizi, Simon Kornblith, Chitwan Saharia, Mohammad Norouzi, David J. Fleet*
+arXiv 2023 [[Paper](https://arxiv.org/abs/2304.08466)]
+
 
 ### Segmentation
 <a id="Segmentation-link"></a>
 
 ### Detection
 <a id="Detection-link"></a>
+**DALL-E for Detection: Language-driven Compositional Image Synthesis for Object Detection**  
+*Yunhao Ge, Jiashu Xu, Brian Nlong Zhao, Neel Joshi, Laurent Itti, Vibhav Vineet*  
+arXiv 2022 [[Paper](https://arxiv.org/abs/2206.09592)]
+
+**Explore the Power of Synthetic Data on Few-shot Object Detection**  
+*Shaobo Lin, Kun Wang, Xingyu Zeng, Rui Zhao*   
+CVPR 2023 [[Paper](https://arxiv.org/abs/2303.13221)]
+
+**The Big Data Myth: Using Diffusion Models for Dataset Generation to Train Deep Detection Models**  
+*Roy Voetman, Maya Aghaei, Klaas Dijkstra*
+arXiv 2023 [[Paper](https://arxiv.org/abs/2306.09762)]
 
 ## Visual Generation
 <a id="VisualGeneration-link"></a>
+**Large Scale GAN Training for High Fidelity Natural Image Synthesis**  
+*Andrew Brock, Jeff Donahue, Karen Simonyan*  
+ICLR 2019 [[Paper](https://arxiv.org/abs/1809.11096)][[Project](https://www.deepmind.com/open-source/big-gan)][[Code](https://github.com/ajbrock/BigGAN-PyTorch)]
+
+**DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation**   
+*Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, Kfir Aberman*  
+CVPR 2023 [[Paper](https://arxiv.org/abs/2208.12242)][[Project](https://dreambooth.github.io/)][[Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)]
 
 ## Robotics
 <a id="Robotics-link"></a>
 
 ## Datasets
 <a id="Datasets-link"></a>
+DreamBooth Dataset (https://github.com/google/dreambooth)
