@@ -48,6 +48,13 @@ Datasets:
 
 ## Labelled Data Generation
 <a id="LabelledDataGeneration-link"></a>
+**DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort**  
+*Yuxuan Zhang, Huan Ling, Jun Gao, Kangxue Yin, Jean-Francois Lafleche, Adela Barriuso, Antonio Torralba, Sanja Fidler*   
+CVPR 2021 [[Paper](https://arxiv.org/abs/2104.06490)][[Project](https://nv-tlabs.github.io/datasetGAN/)][[Code](https://github.com/nv-tlabs/datasetGAN_release/tree/master)]
+
+**BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations**  
+*Daiqing Li, Huan Ling, Seung Wook Kim, Karsten Kreis, Adela Barriuso, Sanja Fidler, Antonio Torralba*  
+CVPR 2022 [[Paper](https://arxiv.org/abs/2201.04684)][[Project](https://nv-tlabs.github.io/big-datasetgan/)][[Code](https://github.com/nv-tlabs/bigdatasetgan_code)]
 
 ## Unlabelled Data Generation
 <a id="UnlabelledDataGeneration-link"></a>
@@ -68,6 +75,10 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2302.07944)][[Project](http://btrabuc.
 *Ali Jahanian, Xavier Puig, Yonglong Tian, Phillip Isola*  
 ICLR 2022 [[Paper](https://arxiv.org/abs/2106.05258)][[Project](https://ali-design.github.io/GenRep/)][[Code](https://github.com/ali-design/GenRep)][[Video](https://www.youtube.com/watch?v=qYmGvVrGZno)]
 
+**StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners**  
+*Yonglong Tian, Lijie Fan, Phillip Isola, Huiwen Chang, Dilip Krishnan*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2306.00984)]
+
 ## Visual Understanding
 <a id="VisualUnderstanding-link"></a>
 
@@ -84,6 +95,21 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2304.08466)]
 
 ### Segmentation
 <a id="Segmentation-link"></a>
+**Learning Semantic Segmentation from Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach**  
+*Yuhua Chen, Wen Li, Xiaoran Chen, Luc Van Gool*  
+CVPR 2019 [[Paper](https://arxiv.org/abs/1812.05040)]
+
+**Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization**  
+*Daiqing Li, Junlin Yang, Karsten Kreis, Antonio Torralba, Sanja Fidler*  
+CVPR 2021 [[Paper](https://arxiv.org/abs/2104.05833)][[Project](https://nv-tlabs.github.io/semanticGAN/)][[Code](https://github.com/nv-tlabs/semanticGAN_code)]
+
+**Repurposing GANs for One-shot Semantic Part Segmentation**  
+*Nontawat Tritrong, Pitchaporn Rewatbowornwong, Supasorn Suwajanakorn*
+CVPR 2021 [[Paper](https://arxiv.org/abs/2103.04379)][[Project](https://repurposegans.github.io/)][[Code](https://github.com/bryandlee/repurpose-gan/)]
+
+**Diffusion Models for Zero-Shot Open-Vocabulary Segmentation**  
+*Laurynas Karazija, Iro Laina, Andrea Vedaldi, Christian Rupprecht*
+arXiv 2023 [[Paper](https://arxiv.org/abs/2306.09316)]
 
 ### Detection
 <a id="Detection-link"></a>
@@ -96,11 +122,15 @@ arXiv 2022 [[Paper](https://arxiv.org/abs/2206.09592)]
 CVPR 2023 [[Paper](https://arxiv.org/abs/2303.13221)]
 
 **The Big Data Myth: Using Diffusion Models for Dataset Generation to Train Deep Detection Models**  
-*Roy Voetman, Maya Aghaei, Klaas Dijkstra*
+*Roy Voetman, Maya Aghaei, Klaas Dijkstra*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2306.09762)]
 
 ## Visual Generation
 <a id="VisualGeneration-link"></a>
+**Spatial Fusion GAN for Image Synthesis**  
+*Fangneng Zhan, Hongyuan Zhu, Shijian Lu*  
+CVPR 2019 [[Paper](https://arxiv.org/abs/1812.05840)]
+
 **Large Scale GAN Training for High Fidelity Natural Image Synthesis**  
 *Andrew Brock, Jeff Donahue, Karen Simonyan*  
 ICLR 2019 [[Paper](https://arxiv.org/abs/1809.11096)][[Project](https://www.deepmind.com/open-source/big-gan)][[Code](https://github.com/ajbrock/BigGAN-PyTorch)]
@@ -111,7 +141,11 @@ CVPR 2023 [[Paper](https://arxiv.org/abs/2208.12242)][[Project](https://dreamboo
 
 ## Robotics
 <a id="Robotics-link"></a>
+**Learning Keypoints from Synthetic Data for Robotic Cloth Folding**  
+*Thomas Lips, Victor-Louis De Gusseme, Francis wyffels*  
+ICRA 2022 [[Paper](https://arxiv.org/abs/2205.06714)][[Code](https://github.com/tlpss/workshop-icra-2022-cloth-keypoints)]
 
 ## Datasets
 <a id="Datasets-link"></a>
-DreamBooth Dataset (https://github.com/google/dreambooth)
+DreamBooth Dataset (https://github.com/google/dreambooth)  
+BigDatasetGAN Dataset (https://drive.google.com/drive/u/2/folders/1NC0VSZrVZsd1Z_IRSdadyfCfTXMAPsf1)
