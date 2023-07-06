@@ -10,9 +10,7 @@ The process to submit a pull request:
 >**Title**<br>
 >*Author*<br>
 >Conference  
->[[Paper](Paper link)]  
->[[Project](Project link)]  
->[[Code](Code link)]  
+>[[Paper](Paper link)][[Project](Project link)][[Code](Code link)][[Video](Video link)] 
 - c. Submit the pull request to this branch.
 
 ## Related Surveys & Projects
