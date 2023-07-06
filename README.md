@@ -24,6 +24,10 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2302.04062)]
 *Indu Joshi, Marcel Grimmer, Christian Rathgeb, Christoph Busch, Francois Bremond, Antitza Dantcheva*  
 arXiv 2022 [[Paper](https://arxiv.org/abs/2208.09191)]
 
+**A Review of Synthetic Image Data and Its Use in Computer Vision**
+*Keith Man, Javaan Chahl*  
+J. Imaging 2022 [[Paper](https://www.mdpi.com/2313-433X/8/11/310)]
+
 **Survey on Synthetic Data Generation, Evaluation Methods and GANs**  
 *Alvaro Figueira, Bruno Vaz*  
 Mathematics 2022 [[Paper](https://www.mdpi.com/2227-7390/10/15/2733)]
