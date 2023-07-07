@@ -153,5 +153,15 @@ ICRA 2022 [[Paper](https://arxiv.org/abs/2205.06714)][[Code](https://github.com/
 
 ## Datasets
 <a id="Datasets-link"></a>
-DreamBooth Dataset (https://github.com/google/dreambooth)  
-BigDatasetGAN Dataset (https://drive.google.com/drive/u/2/folders/1NC0VSZrVZsd1Z_IRSdadyfCfTXMAPsf1)
+**GenImage: A Million-Scale Benchmark for Detecting AI-Generated Image**  
+*Mingjian Zhu, Hanting Chen, Qiangyu Yan, Xudong Huang, Guanyu Lin, Wei Li, Zhijun Tu, Hailin Hu, Jie Hu, Yunhe Wang*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2306.08571)][[Project](https://genimage-dataset.github.io/)][[Code](https://github.com/GenImage-Dataset/GenImage)]
+
+**JourneyDB: A Benchmark for Generative Image Understanding**  
+*Junting Pan, Keqiang Sun, Yuying Ge, Hao Li, Haodong Duan, Xiaoshi Wu, Renrui Zhang, Aojun Zhou, Zipeng Qin, Yi Wang, Jifeng Dai, Yu Qiao, Hongsheng Li*
+arXiv 2023 [[Paper](https://arxiv.org/abs/2307.00716)][[Project](https://journeydb.github.io/)][[Code](https://github.com/JourneyDB/JourneyDB)]
+
+GenImage (https://pan.baidu.com/share/init?surl=i0OFqYN5i6oFAxeK6bIwRQ#list/path=%2F)  
+JourneyDB (https://docs.google.com/forms/d/e/1FAIpQLSeiciK0g0IA46_hFaitRhdpihhpjqt3helJNT68y-C8MfKhiQ/viewform?pli=1)  
+DreamBooth (https://github.com/google/dreambooth)  
+BigDatasetGAN (https://drive.google.com/drive/u/2/folders/1NC0VSZrVZsd1Z_IRSdadyfCfTXMAPsf1)
