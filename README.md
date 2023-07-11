@@ -106,11 +106,11 @@ CVPR 2019 [[Paper](https://arxiv.org/abs/1812.05040)]
 CVPR 2021 [[Paper](https://arxiv.org/abs/2104.05833)][[Project](https://nv-tlabs.github.io/semanticGAN/)][[Code](https://github.com/nv-tlabs/semanticGAN_code)]
 
 **Repurposing GANs for One-shot Semantic Part Segmentation**  
-*Nontawat Tritrong, Pitchaporn Rewatbowornwong, Supasorn Suwajanakorn*
+*Nontawat Tritrong, Pitchaporn Rewatbowornwong, Supasorn Suwajanakorn*  
 CVPR 2021 [[Paper](https://arxiv.org/abs/2103.04379)][[Project](https://repurposegans.github.io/)][[Code](https://github.com/bryandlee/repurpose-gan/)]
 
 **Diffusion Models for Zero-Shot Open-Vocabulary Segmentation**  
-*Laurynas Karazija, Iro Laina, Andrea Vedaldi, Christian Rupprecht*
+*Laurynas Karazija, Iro Laina, Andrea Vedaldi, Christian Rupprecht*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2306.09316)]
 
 ### Detection
