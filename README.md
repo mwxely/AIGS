@@ -22,13 +22,17 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2302.04062)]
 *Indu Joshi, Marcel Grimmer, Christian Rathgeb, Christoph Busch, Francois Bremond, Antitza Dantcheva*  
 arXiv 2022 [[Paper](https://arxiv.org/abs/2208.09191)]
 
-**A Review of Synthetic Image Data and Its Use in Computer Vision**
+**A Review of Synthetic Image Data and Its Use in Computer Vision**  
 *Keith Man, Javaan Chahl*  
 J. Imaging 2022 [[Paper](https://www.mdpi.com/2313-433X/8/11/310)]
 
 **Survey on Synthetic Data Generation, Evaluation Methods and GANs**  
 *Alvaro Figueira, Bruno Vaz*  
 Mathematics 2022 [[Paper](https://www.mdpi.com/2227-7390/10/15/2733)]
+
+**Fake It Till You Make It: Guidelines for Effective Synthetic Data Generation**  
+*Fida K. Dankar, Mahmoud Ibrahim*  
+Applied Sciences 2021 [[Paper](https://www.mdpi.com/2076-3417/11/5/2158)]
 
 ## Table of Contents (Work in Progress)
 Synthetic Data for Training:
@@ -90,10 +94,13 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2306.00984)]
 *Ruifei He, Shuyang Sun, Xin Yu, Chuhui Xue, Wenqing Zhang, Philip Torr, Song Bai, Xiaojuan Qi*  
 ICLR 2023 [[Paper](https://arxiv.org/abs/2206.09592)][[Code](https://github.com/CVMI-Lab/SyntheticData)]
 
-**Synthetic Data from Diffusion Models Improves ImageNet Classification**
+**Synthetic Data from Diffusion Models Improves ImageNet Classification**  
 *Shekoofeh Azizi, Simon Kornblith, Chitwan Saharia, Mohammad Norouzi, David J. Fleet*
 arXiv 2023 [[Paper](https://arxiv.org/abs/2304.08466)]
 
+**Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains**  
+*Pierre Chambon, Christian Bluethgen, Curtis P. Langlotz, Akshay Chaudhari*  
+NeurIPS 2022 [[Paper](https://arxiv.org/abs/2210.04133)]
 
 ### Segmentation
 <a id="Segmentation-link"></a>
@@ -112,6 +119,10 @@ CVPR 2021 [[Paper](https://arxiv.org/abs/2103.04379)][[Project](https://repurpos
 **Diffusion Models for Zero-Shot Open-Vocabulary Segmentation**  
 *Laurynas Karazija, Iro Laina, Andrea Vedaldi, Christian Rupprecht*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2306.09316)]
+
+**DifFSS: Diffusion Model for Few-Shot Semantic Segmentation**  
+*Weimin Tan, Siyuan Chen, Bo Yan*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2307.00773)]
 
 ### Detection
 <a id="Detection-link"></a>
@@ -157,11 +168,16 @@ ICRA 2022 [[Paper](https://arxiv.org/abs/2205.06714)][[Code](https://github.com/
 *Mingjian Zhu, Hanting Chen, Qiangyu Yan, Xudong Huang, Guanyu Lin, Wei Li, Zhijun Tu, Hailin Hu, Jie Hu, Yunhe Wang*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2306.08571)][[Project](https://genimage-dataset.github.io/)][[Code](https://github.com/GenImage-Dataset/GenImage)]
 
+**DiffusionDB: A Large-scale Prompt Gallery Dataset for Text-to-Image Generative Models**  
+*Zijie J. Wang, Evan Montoya, David Munechika, Haoyang Yang, Benjamin Hoover, Duen Horng Chau*  
+ACL 2023 [[Paper](https://arxiv.org/abs/2210.14896)][Project](https://poloclub.github.io/diffusiondb/)][[Code](https://github.com/poloclub/diffusiondb)]
+
 **JourneyDB: A Benchmark for Generative Image Understanding**  
 *Junting Pan, Keqiang Sun, Yuying Ge, Hao Li, Haodong Duan, Xiaoshi Wu, Renrui Zhang, Aojun Zhou, Zipeng Qin, Yi Wang, Jifeng Dai, Yu Qiao, Hongsheng Li*
 arXiv 2023 [[Paper](https://arxiv.org/abs/2307.00716)][[Project](https://journeydb.github.io/)][[Code](https://github.com/JourneyDB/JourneyDB)]
 
 GenImage (https://pan.baidu.com/share/init?surl=i0OFqYN5i6oFAxeK6bIwRQ#list/path=%2F)  
+DiffusionDB (https://huggingface.co/datasets/poloclub/diffusiondb)  
 JourneyDB (https://docs.google.com/forms/d/e/1FAIpQLSeiciK0g0IA46_hFaitRhdpihhpjqt3helJNT68y-C8MfKhiQ/viewform?pli=1)  
 DreamBooth (https://github.com/google/dreambooth)  
 BigDatasetGAN (https://drive.google.com/drive/u/2/folders/1NC0VSZrVZsd1Z_IRSdadyfCfTXMAPsf1)
