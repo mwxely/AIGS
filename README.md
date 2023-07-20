@@ -36,8 +36,7 @@ Applied Sciences 2021 [[Paper](https://www.mdpi.com/2076-3417/11/5/2158)]
 
 ## Table of Contents (Work in Progress)
 Synthetic Data for Training:
-- [Labelled Data Generation](#LabelledDataGeneration-link)
-- [Unlabelled Data Generation](#UnlabelledDataGeneration-link)
+- [Data Generation](#LabelledDataGeneration-link)
 - [Data Augmentation](#DataAugmentation-link)
 
 Synthetic Data Application:
@@ -52,7 +51,7 @@ Synthetic Data Application:
 Datasets:
 - [Datasets](#Datasets-link)
 
-## Labelled Data Generation
+## Data Generation
 <a id="LabelledDataGeneration-link"></a>
 **DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort**  
 *Yuxuan Zhang, Huan Ling, Jun Gao, Kangxue Yin, Jean-Francois Lafleche, Adela Barriuso, Antonio Torralba, Sanja Fidler*   
@@ -61,9 +60,6 @@ CVPR 2021 [[Paper](https://arxiv.org/abs/2104.06490)][[Project](https://nv-tlabs
 **BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations**  
 *Daiqing Li, Huan Ling, Seung Wook Kim, Karsten Kreis, Adela Barriuso, Sanja Fidler, Antonio Torralba*  
 CVPR 2022 [[Paper](https://arxiv.org/abs/2201.04684)][[Project](https://nv-tlabs.github.io/big-datasetgan/)][[Code](https://github.com/nv-tlabs/bigdatasetgan_code)]
-
-## Unlabelled Data Generation
-<a id="UnlabelledDataGeneration-link"></a>
 
 ## Data Augmentation
 <a id="DataAugmentation-link"></a>
