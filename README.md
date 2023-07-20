@@ -36,7 +36,7 @@ Applied Sciences 2021 [[Paper](https://www.mdpi.com/2076-3417/11/5/2158)]
 
 ## Table of Contents (Work in Progress)
 Synthetic Data for Training:
-- [Data Generation](#LabelledDataGeneration-link)
+- [Dataset Generation](#LabelledDataGeneration-link)
 - [Data Augmentation](#DataAugmentation-link)
 
 Synthetic Data Application:
@@ -51,7 +51,7 @@ Synthetic Data Application:
 Datasets:
 - [Datasets](#Datasets-link)
 
-## Data Generation
+## Dataset Generation
 <a id="LabelledDataGeneration-link"></a>
 **DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort**  
 *Yuxuan Zhang, Huan Ling, Jun Gao, Kangxue Yin, Jean-Francois Lafleche, Adela Barriuso, Antonio Torralba, Sanja Fidler*   
@@ -60,6 +60,22 @@ CVPR 2021 [[Paper](https://arxiv.org/abs/2104.06490)][[Project](https://nv-tlabs
 **BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations**  
 *Daiqing Li, Huan Ling, Seung Wook Kim, Karsten Kreis, Adela Barriuso, Sanja Fidler, Antonio Torralba*  
 CVPR 2022 [[Paper](https://arxiv.org/abs/2201.04684)][[Project](https://nv-tlabs.github.io/big-datasetgan/)][[Code](https://github.com/nv-tlabs/bigdatasetgan_code)]
+
+HandsOff: Labeled Dataset Generation With No Additional Human Annotations
+
+On the generation of realistic synthetic petrographic datasets using a style-based GAN
+
+Learning to Annotate Part Segmentation with Gradient Matching
+
+Histopathology DatasetGAN: Synthesizing Large-Resolution Histopathology Datasets
+
+Application of DatasetGAN in medical imaging: preliminary studies
+
+Medical Image Segmentation Using Deep Learning: A Survey
+
+Transformation-Consistent Self-Ensembling Model for Semisupervised Medical Image Segmentation
+
+A Data Augmentation Pipeline to Generate Synthetic Labeled Datasets of 3D Echocardiography Images Using a GAN
 
 ## Data Augmentation
 <a id="DataAugmentation-link"></a>
@@ -70,6 +86,10 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2304.10253)]
 **Effective Data Augmentation With Diffusion Models**  
 *Brandon Trabucco, Kyle Doherty, Max Gurinas, Ruslan Salakhutdinov*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2302.07944)][[Project](http://btrabuc.co/da-fusion/)]
+
+**Skin Lesion Classification Using GAN based Data Augmentation**  
+*Rashid Haroon, Tanveer M. Asjid, Aqeel Khan Hassan*  
+EMBC 2019 [[Paper](https://ieeexplore.ieee.org/document/8857905)]
 
 ## Self-supervised Learning
 <a id="SelfsupervisedLearning-link"></a>
@@ -98,6 +118,10 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2304.08466)]
 *Pierre Chambon, Christian Bluethgen, Curtis P. Langlotz, Akshay Chaudhari*  
 NeurIPS 2022 [[Paper](https://arxiv.org/abs/2210.04133)]
 
+**OpenGAN: Open-Set Recognition via Open Data Generation**  
+*Shu Kong, Deva Ramanan*  
+ICCV 2021 [[Paper](https://arxiv.org/abs/2104.02939)][[Project](https://www.cs.cmu.edu/~shuk/OpenGAN.html)][[Code](https://github.com/aimerykong/OpenGAN)][[Video](https://www.youtube.com/watch?v=CNYqYXyUHn0)]
+
 ### Segmentation
 <a id="Segmentation-link"></a>
 **Learning Semantic Segmentation from Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach**  
@@ -120,6 +144,12 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2306.09316)]
 *Weimin Tan, Siyuan Chen, Bo Yan*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2307.00773)]
 
+Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization
+
+Few-shot 3D Multi-modal Medical Image Segmentation using Generative Adversarial Learning
+
+Segmentation in Style: Unsupervised Semantic Image Segmentation with Stylegan and CLIP
+
 ### Detection
 <a id="Detection-link"></a>
 **DALL-E for Detection: Language-driven Compositional Image Synthesis for Object Detection**  
@@ -136,17 +166,7 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2306.09762)]
 
 ## Visual Generation
 <a id="VisualGeneration-link"></a>
-**Spatial Fusion GAN for Image Synthesis**  
-*Fangneng Zhan, Hongyuan Zhu, Shijian Lu*  
-CVPR 2019 [[Paper](https://arxiv.org/abs/1812.05840)]
-
-**Large Scale GAN Training for High Fidelity Natural Image Synthesis**  
-*Andrew Brock, Jeff Donahue, Karen Simonyan*  
-ICLR 2019 [[Paper](https://arxiv.org/abs/1809.11096)][[Project](https://www.deepmind.com/open-source/big-gan)][[Code](https://github.com/ajbrock/BigGAN-PyTorch)]
-
-**DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation**   
-*Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, Kfir Aberman*  
-CVPR 2023 [[Paper](https://arxiv.org/abs/2208.12242)][[Project](https://dreambooth.github.io/)][[Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)]
+DreamBooth3D
 
 ## Robotics
 <a id="Robotics-link"></a>
