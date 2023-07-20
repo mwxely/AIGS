@@ -95,7 +95,7 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2306.00984)]
 ICLR 2023 [[Paper](https://arxiv.org/abs/2206.09592)][[Code](https://github.com/CVMI-Lab/SyntheticData)]
 
 **Synthetic Data from Diffusion Models Improves ImageNet Classification**  
-*Shekoofeh Azizi, Simon Kornblith, Chitwan Saharia, Mohammad Norouzi, David J. Fleet*
+*Shekoofeh Azizi, Simon Kornblith, Chitwan Saharia, Mohammad Norouzi, David J. Fleet*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2304.08466)]
 
 **Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains**  
