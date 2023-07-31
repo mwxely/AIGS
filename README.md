@@ -91,6 +91,16 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2302.07944)][[Project](http://btrabuc.
 *Rashid Haroon, Tanveer M. Asjid, Aqeel Khan Hassan*  
 EMBC 2019 [[Paper](https://ieeexplore.ieee.org/document/8857905)]
 
+GAN-based synthetic medical image augmentation for increased CNN performance in liver lesion classification
+
+Data augmentation generative adversarial networks
+
+Gan augmentation: Augmenting training data using generative adversarial networks
+
+Enhancement of Image Classification Using Transfer Learning and GAN-Based Synthetic Data Augmentation
+
+Diversify your vision datasets with automatic diffusion-based augmentation
+
 ## Self-supervised Learning
 <a id="SelfsupervisedLearning-link"></a>
 **Generative Models as a Data Source for Multiview Representation Learning**  
@@ -121,6 +131,8 @@ NeurIPS 2022 [[Paper](https://arxiv.org/abs/2210.04133)]
 **OpenGAN: Open-Set Recognition via Open Data Generation**  
 *Shu Kong, Deva Ramanan*  
 ICCV 2021 [[Paper](https://arxiv.org/abs/2104.02939)][[Project](https://www.cs.cmu.edu/~shuk/OpenGAN.html)][[Code](https://github.com/aimerykong/OpenGAN)][[Video](https://www.youtube.com/watch?v=CNYqYXyUHn0)]
+
+Image Captions are Natural Prompts for Text-to-Image Models
 
 ### Segmentation
 <a id="Segmentation-link"></a>
