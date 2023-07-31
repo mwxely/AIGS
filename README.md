@@ -134,6 +134,8 @@ ICCV 2021 [[Paper](https://arxiv.org/abs/2104.02939)][[Project](https://www.cs.c
 
 Image Captions are Natural Prompts for Text-to-Image Models
 
+Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels
+
 ### Segmentation
 <a id="Segmentation-link"></a>
 **Learning Semantic Segmentation from Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach**  
@@ -175,6 +177,10 @@ CVPR 2023 [[Paper](https://arxiv.org/abs/2303.13221)]
 **The Big Data Myth: Using Diffusion Models for Dataset Generation to Train Deep Detection Models**  
 *Roy Voetman, Maya Aghaei, Klaas Dijkstra*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2306.09762)]
+
+IMAGINARYNET: LEARNING OBJECT DETECTORS WITHOUT REAL IMAGES AND ANNOTATIONS
+
+Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt
 
 ## Visual Generation
 <a id="VisualGeneration-link"></a>
