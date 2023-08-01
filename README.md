@@ -164,6 +164,8 @@ Few-shot 3D Multi-modal Medical Image Segmentation using Generative Adversarial 
 
 Segmentation in Style: Unsupervised Semantic Image Segmentation with Stylegan and CLIP
 
+ODISE
+
 ### Detection
 <a id="Detection-link"></a>
 **DALL-E for Detection: Language-driven Compositional Image Synthesis for Object Detection**  
