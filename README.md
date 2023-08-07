@@ -186,7 +186,8 @@ Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quali
 
 ## Visual Generation
 <a id="VisualGeneration-link"></a>
-DreamBooth3D
+DreamBooth3D  
+StyleAvatar3D
 
 ## Robotics
 <a id="Robotics-link"></a>
