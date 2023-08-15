@@ -188,16 +188,13 @@ Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quali
 <a id="VisualGeneration-link"></a>
 DreamBooth3D  
 StyleAvatar3D
+Zero-1-to-3
 
 ## Robotics
 <a id="Robotics-link"></a>
 **NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields**  
 *Thomas Lips, Victor-Louis De Gusseme, Francis wyffels*  
 ICRA 2022 [[Paper](https://arxiv.org/abs/2203.01913)][[Project](https://yenchenlin.me/nerf-supervision/)][[Code](https://github.com/yenchenlin/nerf-supervision-public)][[Video](https://www.youtube.com/watch?v=_zN-wVwPH1s)]
-
-**Learning Keypoints from Synthetic Data for Robotic Cloth Folding**  
-*Thomas Lips, Victor-Louis De Gusseme, Francis wyffels*  
-ICRA 2022 [[Paper](https://arxiv.org/abs/2205.06714)][[Code](https://github.com/tlpss/workshop-icra-2022-cloth-keypoints)]
 
 ## Datasets
 <a id="Datasets-link"></a>
