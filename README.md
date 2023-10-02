@@ -1,7 +1,9 @@
 # AI-Generated Images as Data Source: The Dawn of Synthetic Era
-This project is associated with our survey paper which comprehensively contextualizes the advance of the recent ***AI***-***G***enerated Images as Data ***S***ource (**AIGS**) and presents a exhaustive view of the synthetic era in deep learning.
+This project is associated with our survey paper which comprehensively contextualizes the advance of the recent **AI**-**G**enerated Images as Data **S**ource (**AIGS**) and visual AIGC by formulating taxonomies according to methodologies and applications.
 
-**AI-Generated Images as Data Source: The Dawn of Synthetic Era** » [[Paper Overleaf link](https://www.overleaf.com/2721143181hysckdgbdyqd)]
+**AI-Generated Images as Data Source: The Dawn of Synthetic Era** [[Paper](https://www.overleaf.com/2721143181hysckdgbdyqd)]  
+*Zuhao Yang, Fangneng Zhan, Kunhao Liu, Muyu Xu, Shijian Lu*  
+arXiv, 2023 
 
 You are welcome to promote papers via pull request.
 The process to submit a pull request:
