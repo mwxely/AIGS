@@ -57,13 +57,14 @@ Synthetic Data for Training:
 - [Data Augmentation](#DataAugmentation-link)
 
 Synthetic Data Application:
-- [Self-supervised Learning](#SelfsupervisedLearning-link)
 - [Visual Understanding](#VisualUnderstanding-link)
   - [Classification](#Classification-link)
   - [Segmentation](#Segmentation-link)
   - [Detection](#Detection-link)
 - [Visual Generation](#VisualGeneration-link)
+- [Self-supervised Learning](#SelfsupervisedLearning-link)
 - [Robotics](#Robotics-link)
+- [Autonomous Driving](#AutonomousDriving-link)
 
 Datasets:
 - [Datasets](#Datasets-link)
@@ -118,15 +119,6 @@ Enhancement of Image Classification Using Transfer Learning and GAN-Based Synthe
 
 Diversify your vision datasets with automatic diffusion-based augmentation
 
-## Self-supervised Learning
-<a id="SelfsupervisedLearning-link"></a>
-**Generative Models as a Data Source for Multiview Representation Learning**  
-*Ali Jahanian, Xavier Puig, Yonglong Tian, Phillip Isola*  
-ICLR 2022 [[Paper](https://arxiv.org/abs/2106.05258)][[Project](https://ali-design.github.io/GenRep/)][[Code](https://github.com/ali-design/GenRep)][[Video](https://www.youtube.com/watch?v=qYmGvVrGZno)]
-
-**StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners**  
-*Yonglong Tian, Lijie Fan, Phillip Isola, Huiwen Chang, Dilip Krishnan*  
-arXiv 2023 [[Paper](https://arxiv.org/abs/2306.00984)]
 
 ## Visual Understanding
 <a id="VisualUnderstanding-link"></a>
@@ -229,11 +221,50 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2303.13508)][[Project](https://dreambo
 arXiv 2023 [[Paper](https://arxiv.org/abs/2305.19012)]
 
 
+## Self-supervised Learning
+<a id="SelfsupervisedLearning-link"></a>
+**Generative Models as a Data Source for Multiview Representation Learning**  
+*Ali Jahanian, Xavier Puig, Yonglong Tian, Phillip Isola*  
+ICLR 2022 [[Paper](https://arxiv.org/abs/2106.05258)][[Project](https://ali-design.github.io/GenRep/)][[Code](https://github.com/ali-design/GenRep)][[Video](https://www.youtube.com/watch?v=qYmGvVrGZno)]
+
+**StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners**  
+*Yonglong Tian, Lijie Fan, Phillip Isola, Huiwen Chang, Dilip Krishnan*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2306.00984)]
+
+Ensembling with Deep Generative Views
+
+DreamTeacher: Pretraining Image Backbones with Deep Generative Models
+
 ## Robotics
 <a id="Robotics-link"></a>
 **NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields**  
 *Thomas Lips, Victor-Louis De Gusseme, Francis wyffels*  
 ICRA 2022 [[Paper](https://arxiv.org/abs/2203.01913)][[Project](https://yenchenlin.me/nerf-supervision/)][[Code](https://github.com/yenchenlin/nerf-supervision-public)][[Video](https://www.youtube.com/watch?v=_zN-wVwPH1s)]
+
+INeRF: Inverting Neural Radiance Fields for Pose Estimation
+
+VMRF: View Matching Neural Radiance Fields
+
+LENS: Localization enhanced by NeRF synthesis
+
+Gan-based neural radiance field without posed camera
+
+NeRF-Pose: A First-Reconstruct-Then-Regress Approach for Weakly-supervised 6D Object Pose Estimation
+
+Vision-only robot navigation in a neural radiance world
+
+Event-based Camera Tracker by ∇t NeRF
+
+
+## Autonomous Driving
+<a id="AutonomousDriving-link"></a>
+Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field
+
+3D Data Augmentation for Driving Scenes on Camera
+
+UniSim: A Neural Closed-Loop Sensor Simulator
+
+MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving
 
 
 ## Datasets
