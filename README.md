@@ -1,4 +1,5 @@
-# AI-Generated Images as Data Source: The Dawn of Synthetic Era  
+<img src='title.png' align="center">
+
 [![arXiv](https://img.shields.io/badge/arXiv-2310.01830-b31b1b.svg)](https://arxiv.org/abs/2310.01830)
 [![Survey](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
@@ -6,19 +7,30 @@
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)  
 This project is associated with our survey paper which comprehensively contextualizes the advance of the recent **AI**-**G**enerated Images as Data **S**ource (**AIGS**) and visual AIGC by formulating taxonomies according to methodologies and applications.
 
+<img src='teaser.png' align="center">
+
 **AI-Generated Images as Data Source: The Dawn of Synthetic Era** [[Paper](https://www.overleaf.com/2721143181hysckdgbdyqd)]  
 *Zuhao Yang, Fangneng Zhan, Kunhao Liu, Muyu Xu, Shijian Lu*  
 arXiv, 2023 
 
-You are welcome to promote papers via pull request.
+<br>
+
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
+You are welcome to promote papers via pull request. <br>
 The process to submit a pull request:
 - a. Fork the project into your own repository.
 - b. Add the Title, Author, Conference, Paper link, Project link, and Code link in `README.md` with below format:
->**Title**<br>
->*Author*<br>
->Conference  
->[[Paper](Paper link)][[Project](Project link)][[Code](Code link)][[Video](Video link)] 
+```
+**Title**<br>
+*Author*<br>
+Conference
+[[Paper](Paper link)]
+[[Code](Project link)]
+[[Project](Code link)]
+```
 - c. Submit the pull request to this branch.
+
+<br>
 
 ## Related Surveys & Projects
 **Machine Learning for Synthetic Data Generation: A Review**  
