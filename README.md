@@ -9,7 +9,7 @@ This project is associated with our survey paper which comprehensively contextua
 
 <img src='teaser.png' align="center">
 
-**AI-Generated Images as Data Source: The Dawn of Synthetic Era** [[Paper](https://www.overleaf.com/2721143181hysckdgbdyqd)]  
+**AI-Generated Images as Data Source: The Dawn of Synthetic Era** [[Paper](https://arxiv.org/abs/2310.01830)]  
 *Zuhao Yang, Fangneng Zhan, Kunhao Liu, Muyu Xu, Shijian Lu*  
 arXiv, 2023 
 
