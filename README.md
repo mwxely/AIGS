@@ -25,8 +25,9 @@ The process to submit a pull request:
 *Author*<br>
 Conference
 [[Paper](Paper link)]
-[[Code](Project link)]
-[[Project](Code link)]
+[[Project](Project link)]
+[[Code](Code link)]
+[[Video](Video link)]
 ```
 - c. Submit the pull request to this branch.
 
@@ -49,9 +50,6 @@ J. Imaging 2022 [[Paper](https://www.mdpi.com/2313-433X/8/11/310)]
 *Alvaro Figueira, Bruno Vaz*  
 Mathematics 2022 [[Paper](https://www.mdpi.com/2227-7390/10/15/2733)]
 
-**Fake It Till You Make It: Guidelines for Effective Synthetic Data Generation**  
-*Fida K. Dankar, Mahmoud Ibrahim*  
-Applied Sciences 2021 [[Paper](https://www.mdpi.com/2076-3417/11/5/2158)]
 
 ## Table of Contents (Work in Progress)
 Synthetic Data for Training:
@@ -203,17 +201,40 @@ IMAGINARYNET: LEARNING OBJECT DETECTORS WITHOUT REAL IMAGES AND ANNOTATIONS
 
 Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt
 
+
 ## Visual Generation
 <a id="VisualGeneration-link"></a>
-DreamBooth3D  
-StyleAvatar3D
-Zero-1-to-3
+**Re-Aging GAN: Toward Personalized Face Age Transformation**  
+*Farkhod Makhmudkhujaev, Sungeun Hong, and In Kyu Park*  
+ICCV 2021 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Makhmudkhujaev_Re-Aging_GAN_Toward_Personalized_Face_Age_Transformation_ICCV_2021_paper.pdf)][[Video](https://www.youtube.com/watch?v=NRl0GPgtcBY)]
+
+**Only a Matter of Style: Age Transformation Using a Style-Based Regression Model**  
+*Yuval Alaluf, Or Patashnik, Daniel Cohen-Or*  
+SIGGRAPH 2021 [[Paper](https://arxiv.org/abs/2102.02754)][[Project](https://yuval-alaluf.github.io/SAM/)][[Code](https://github.com/yuval-alaluf/SAM)][[Video](https://www.youtube.com/watch?v=X_pYC_LtBFw)]
+
+**Production-Ready Face Re-Aging for Visual Effects**  
+*Gaspard Zoss, Prashanth Chandran, Eftychios Sifakis, Markus Gross, Paulo Gotardo, Derek Bradley*  
+TOG 2021 [[Paper](https://studios.disneyresearch.com/app/uploads/2022/10/Production-Ready-Face-Re-Aging-for-Visual-Effects.pdf)][[Project](https://studios.disneyresearch.com/2022/11/30/production-ready-face-re-aging-for-visual-effects/)][[Video](https://www.youtube.com/watch?v=ZP1ApcdyAjk)]
+
+**Zero-1-to-3: Zero-shot One Image to 3D Object**  
+*Ruoshi Liu, Rundi Wu, Basile Van Hoorick, Pavel Tokmakov, Sergey Zakharov, Carl Vondrick*  
+ICCV 2023 [[Paper](https://arxiv.org/abs/2303.11328)][[Project](https://zero123.cs.columbia.edu/)][[Code](https://github.com/cvlab-columbia/zero123)]
+
+**DreamBooth3D: Subject-Driven Text-to-3D Generation**  
+*Amit Raj, Srinivas Kaza, Ben Poole, Michael Niemeyer, Nataniel Ruiz, Ben Mildenhall, Shiran Zada, Kfir Aberman, Michael Rubinstein, Jonathan Barron, Yuanzhen Li, Varun Jampani*   
+arXiv 2023 [[Paper](https://arxiv.org/abs/2303.13508)][[Project](https://dreambooth3d.github.io/)][[Video](https://youtu.be/kKVDrbfvOoA)]
+
+**StyleAvatar3D: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation**  
+*Chi Zhang, Yiwen Chen, Yijun Fu, Zhenglin Zhou, Gang YU, Billzb Wang, Bin Fu, Tao Chen, Guosheng Lin, Chunhua Shen*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2305.19012)]
+
 
 ## Robotics
 <a id="Robotics-link"></a>
 **NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields**  
 *Thomas Lips, Victor-Louis De Gusseme, Francis wyffels*  
 ICRA 2022 [[Paper](https://arxiv.org/abs/2203.01913)][[Project](https://yenchenlin.me/nerf-supervision/)][[Code](https://github.com/yenchenlin/nerf-supervision-public)][[Video](https://www.youtube.com/watch?v=_zN-wVwPH1s)]
+
 
 ## Datasets
 <a id="Datasets-link"></a>
