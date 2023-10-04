@@ -217,10 +217,6 @@ ICRA 2022 [[Paper](https://arxiv.org/abs/2203.01913)][[Project](https://yenchenl
 
 ## Datasets
 <a id="Datasets-link"></a>
-**GenImage: A Million-Scale Benchmark for Detecting AI-Generated Image**  
-*Mingjian Zhu, Hanting Chen, Qiangyu Yan, Xudong Huang, Guanyu Lin, Wei Li, Zhijun Tu, Hailin Hu, Jie Hu, Yunhe Wang*  
-arXiv 2023 [[Paper](https://arxiv.org/abs/2306.08571)][[Project](https://genimage-dataset.github.io/)][[Code](https://github.com/GenImage-Dataset/GenImage)]
-
 **DiffusionDB: A Large-scale Prompt Gallery Dataset for Text-to-Image Generative Models**  
 *Zijie J. Wang, Evan Montoya, David Munechika, Haoyang Yang, Benjamin Hoover, Duen Horng Chau*  
 ACL 2023 [[Paper](https://arxiv.org/abs/2210.14896)][Project](https://poloclub.github.io/diffusiondb/)][[Code](https://github.com/poloclub/diffusiondb)]
@@ -229,8 +225,24 @@ ACL 2023 [[Paper](https://arxiv.org/abs/2210.14896)][Project](https://poloclub.g
 *Junting Pan, Keqiang Sun, Yuying Ge, Hao Li, Haodong Duan, Xiaoshi Wu, Renrui Zhang, Aojun Zhou, Zipeng Qin, Yi Wang, Jifeng Dai, Yu Qiao, Hongsheng Li*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2307.00716)][[Project](https://journeydb.github.io/)][[Code](https://github.com/JourneyDB/JourneyDB)]
 
-GenImage (https://pan.baidu.com/share/init?surl=i0OFqYN5i6oFAxeK6bIwRQ#list/path=%2F)  
+**GenImage: A Million-Scale Benchmark for Detecting AI-Generated Image**  
+*Mingjian Zhu, Hanting Chen, Qiangyu Yan, Xudong Huang, Guanyu Lin, Wei Li, Zhijun Tu, Hailin Hu, Jie Hu, Yunhe Wang*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2306.08571)][[Project](https://genimage-dataset.github.io/)][[Code](https://github.com/GenImage-Dataset/GenImage)]
+
 DiffusionDB (https://huggingface.co/datasets/poloclub/diffusiondb)  
+
 JourneyDB (https://docs.google.com/forms/d/e/1FAIpQLSeiciK0g0IA46_hFaitRhdpihhpjqt3helJNT68y-C8MfKhiQ/viewform?pli=1)  
-DreamBooth (https://github.com/google/dreambooth)  
-BigDatasetGAN (https://drive.google.com/drive/u/2/folders/1NC0VSZrVZsd1Z_IRSdadyfCfTXMAPsf1)
+
+GenImage (https://pan.baidu.com/share/init?surl=i0OFqYN5i6oFAxeK6bIwRQ#list/path=%2F)  
+
+
+## Citation
+If you use this code for your research, please cite our papers.
+```bibtex
+@article{yang2023aigs,
+  title={AI-Generated Images as Data Source: The Dawn of Synthetic Era},
+  author={Zuhao Yang and Fangneng Zhan and Kunhao Liu and Muyu Xu and Shijian Lu},
+  journal={arXiv preprint arXiv:2310.01830},
+  year={2023}
+}
+```
