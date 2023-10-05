@@ -127,7 +127,7 @@ Diversify your vision datasets with automatic diffusion-based augmentation
 ## Visual Perception
 <a id="2DVisualPerception-link"></a>
 
-### Classification
+### Image Classification
 <a id="Classification-link"></a>
 **Is synthetic data from generative models ready for image recognition?**  
 *Ruifei He, Shuyang Sun, Xin Yu, Chuhui Xue, Wenqing Zhang, Philip Torr, Song Bai, Xiaojuan Qi*  
@@ -149,7 +149,7 @@ Image Captions are Natural Prompts for Text-to-Image Models
 
 Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels
 
-### Segmentation
+### Image Segmentation
 <a id="Segmentation-link"></a>
 **Learning Semantic Segmentation from Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach**  
 *Yuhua Chen, Wen Li, Xiaoran Chen, Luc Van Gool*  
@@ -179,7 +179,7 @@ Segmentation in Style: Unsupervised Semantic Image Segmentation with Stylegan an
 
 ODISE
 
-### Detection
+### Object Detection
 <a id="Detection-link"></a>
 **DALL-E for Detection: Language-driven Compositional Image Synthesis for Object Detection**  
 *Yunhao Ge, Jiashu Xu, Brian Nlong Zhao, Neel Joshi, Laurent Itti, Vibhav Vineet*  
