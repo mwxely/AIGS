@@ -52,19 +52,20 @@ Mathematics 2022 [[Paper](https://www.mdpi.com/2227-7390/10/15/2733)]
 
 
 ## Table of Contents (Work in Progress)
-Synthetic Data for Training:
+Methods:
 - [Dataset Generation](#LabelledDataGeneration-link)
 - [Data Augmentation](#DataAugmentation-link)
 
-Synthetic Data Application:
-- [Visual Understanding](#VisualUnderstanding-link)
+Applications:
+- [2D Visual Perception](#2DVisualPerception-link)
   - [Classification](#Classification-link)
   - [Segmentation](#Segmentation-link)
   - [Detection](#Detection-link)
 - [Visual Generation](#VisualGeneration-link)
 - [Self-supervised Learning](#SelfsupervisedLearning-link)
-- [Robotics](#Robotics-link)
-- [Autonomous Driving](#AutonomousDriving-link)
+- [3D Visual Perception](#3DVisualPerception-link)
+  - [Robotics](#Robotics-link)
+  - [Autonomous Driving](#AutonomousDriving-link)
 
 Datasets:
 - [Datasets](#Datasets-link)
@@ -120,8 +121,8 @@ Enhancement of Image Classification Using Transfer Learning and GAN-Based Synthe
 Diversify your vision datasets with automatic diffusion-based augmentation
 
 
-## Visual Understanding
-<a id="VisualUnderstanding-link"></a>
+## Visual Perception
+<a id="2DVisualPerception-link"></a>
 
 ### Classification
 <a id="Classification-link"></a>
