@@ -53,7 +53,7 @@ Mathematics 2022 [[Paper](https://www.mdpi.com/2227-7390/10/15/2733)]
 
 ## Table of Contents (Work in Progress)
 Methods:
-- [Dataset Generation](#LabelledDataGeneration-link)
+- [Label Acquisition](#LabelAcquisition-link)
 - [Data Augmentation](#DataAugmentation-link)
 
 Applications:
@@ -71,7 +71,7 @@ Datasets:
 - [Datasets](#Datasets-link)
 
 ## Dataset Generation
-<a id="LabelledDataGeneration-link"></a>
+<a id="LabelAcquisition-link"></a>
 **DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort**  
 *Yuxuan Zhang, Huan Ling, Jun Gao, Kangxue Yin, Jean-Francois Lafleche, Adela Barriuso, Antonio Torralba, Sanja Fidler*   
 CVPR 2021 [[Paper](https://arxiv.org/abs/2104.06490)][[Project](https://nv-tlabs.github.io/datasetGAN/)][[Code](https://github.com/nv-tlabs/datasetGAN_release/tree/master)]
