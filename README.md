@@ -58,14 +58,17 @@ Methods:
 
 Applications:
 - [2D Visual Perception](#2DVisualPerception-link)
-  - [Classification](#Classification-link)
-  - [Segmentation](#Segmentation-link)
-  - [Detection](#Detection-link)
+  - [Image Classification](#Classification-link)
+  - [Image Segmentation](#Segmentation-link)
+  - [Object Detection](#Detection-link)
 - [Visual Generation](#VisualGeneration-link)
 - [Self-supervised Learning](#SelfsupervisedLearning-link)
 - [3D Visual Perception](#3DVisualPerception-link)
   - [Robotics](#Robotics-link)
   - [Autonomous Driving](#AutonomousDriving-link)
+- [Other Applications](#OtherApplications-link)
+  - [Medical](#Medical-link)
+  - [Testing Data](#Test-link)
 
 Datasets:
 - [Datasets](#Datasets-link)
@@ -266,6 +269,15 @@ Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance 
 UniSim: A Neural Closed-Loop Sensor Simulator
 
 MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving
+
+
+## Other Applications
+
+### Medical
+<a id="Medical-link"></a>
+
+### Testing Data
+<a id="Test-link"></a>
 
 
 ## Datasets
