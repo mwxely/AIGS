@@ -53,8 +53,12 @@ Mathematics 2022 [[Paper](https://www.mdpi.com/2227-7390/10/15/2733)]
 
 ## Table of Contents (Work in Progress)
 Methods:
-- [Label Acquisition](#LabelAcquisition-link)
-- [Data Augmentation](#DataAugmentation-link)
+- [Generative Models](#GenerativeModels-link)
+  - [Label Acquisition](#GenLabelAcquisition-link)
+  - [Data Augmentation](#GenDataAugmentation-link)
+- [Neural Rendering](#NeuralRendering-link)
+  - [Label Acquisition](#NeuLabelAcquisition-link)
+  - [Data Augmentation](#NeuDataAugmentation-link)
 
 Applications:
 - [2D Visual Perception](#2DVisualPerception-link)
@@ -73,8 +77,14 @@ Applications:
 Datasets:
 - [Datasets](#Datasets-link)
 
-## Label Acquisition
-<a id="LabelAcquisition-link"></a>
+
+# Methods
+
+## Generative Models
+<a id="GenerativeModels-link"></a>
+
+### Label Acquisition
+<a id="GenLabelAcquisition-link"></a>
 **DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort**  
 *Yuxuan Zhang, Huan Ling, Jun Gao, Kangxue Yin, Jean-Francois Lafleche, Adela Barriuso, Antonio Torralba, Sanja Fidler*   
 CVPR 2021 [[Paper](https://arxiv.org/abs/2104.06490)][[Project](https://nv-tlabs.github.io/datasetGAN/)][[Code](https://github.com/nv-tlabs/datasetGAN_release/tree/master)]
@@ -86,8 +96,6 @@ CVPR 2022 [[Paper](https://arxiv.org/abs/2201.04684)][[Project](https://nv-tlabs
 **HandsOff: Labeled Dataset Generation With No Additional Human Annotations**  
 *Austin Xu, Mariya I. Vasileva, Achal Dave, Arjun Seshadri*  
 CVPR 2023 [[Paper](https://arxiv.org/abs/2212.12645)][[Project](https://austinxu87.github.io/handsoff/)][[Code](https://github.com/austinxu87/handsoff/)]
-
-
 
 On the generation of realistic synthetic petrographic datasets using a style-based GAN
 
@@ -103,8 +111,8 @@ Transformation-Consistent Self-Ensembling Model for Semisupervised Medical Image
 
 A Data Augmentation Pipeline to Generate Synthetic Labeled Datasets of 3D Echocardiography Images Using a GAN
 
-## Data Augmentation
-<a id="DataAugmentation-link"></a>
+### Data Augmentation
+<a id="GenDataAugmentation-link"></a>
 **A data augmentation perspective on diffusion models and retrieval**  
 *Max F. Burg, Florian Wenzel, Dominik Zietlow, Max Horn, Osama Makansi, Francesco Locatello, Chris Russell*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2304.10253)]
@@ -127,6 +135,19 @@ Enhancement of Image Classification Using Transfer Learning and GAN-Based Synthe
 
 Diversify your vision datasets with automatic diffusion-based augmentation
 
+
+## Neural Rendering
+<a id="NeuralRendering-link"></a>
+
+### Label Acquisition
+<a id="NeuLabelAcquisition-link"></a>
+
+
+### Data Augmentation
+<a id="NeuDataAugmentation-link"></a>
+
+
+# Applications
 
 ## 2D Visual Perception
 <a id="2DVisualPerception-link"></a>
@@ -293,7 +314,7 @@ MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving
 <a id="Datasets-link"></a>
 **DiffusionDB: A Large-scale Prompt Gallery Dataset for Text-to-Image Generative Models**  
 *Zijie J. Wang, Evan Montoya, David Munechika, Haoyang Yang, Benjamin Hoover, Duen Horng Chau*  
-ACL 2023 [[Paper](https://arxiv.org/abs/2210.14896)][Project](https://poloclub.github.io/diffusiondb/)][[Code](https://github.com/poloclub/diffusiondb)]
+ACL 2023 [[Paper](https://arxiv.org/abs/2210.14896)][[Project](https://poloclub.github.io/diffusiondb/)][[Code](https://github.com/poloclub/diffusiondb)]
 
 **JourneyDB: A Benchmark for Generative Image Understanding**  
 *Junting Pan, Keqiang Sun, Yuying Ge, Hao Li, Haodong Duan, Xiaoshi Wu, Renrui Zhang, Aojun Zhou, Zipeng Qin, Yi Wang, Jifeng Dai, Yu Qiao, Hongsheng Li*  
