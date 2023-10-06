@@ -85,6 +85,35 @@ Datasets:
 
 ### Label Acquisition
 <a id="GenLabelAcquisition-link"></a>
+
+**[BigGAN] Large Scale GAN Training for High Fidelity Natural Image Synthesis**  
+*Andrew Brock, Jeff Donahue, Karen Simonyan*  
+ICLR 2019 [[Paper](https://arxiv.org/abs/1809.11096)]
+
+**[VQ-Diffusion] Vector Quantized Diffusion Model for Text-to-Image Synthesis**  
+*Shuyang Gu, Dong Chen, Jianmin Bao, Fang Wen, Bo Zhang, Dongdong Chen, Lu Yuan, Baining Guo*  
+CVPR 2022 [[Paper](https://arxiv.org/abs/2111.14822)][[Code](https://github.com/cientgu/VQ-Diffusion#vector-quantized-diffusion-model-for-text-to-image-synthesis-cvpr2022-oral)]
+
+**[LDM] High-Resolution Image Synthesis with Latent Diffusion Models**  
+*Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer*  
+CVPR 2022 [[Paper](https://arxiv.org/abs/2112.10752)][[Code](https://github.com/CompVis/latent-diffusion)]
+
+**[Imagen] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding**  
+*Chitwan Saharia, William Chan, Saurabh Saxena, Lala Li, Jay Whang, Emily Denton, Seyed Kamyar Seyed Ghasemipour, Burcu Karagol Ayan, S. Sara Mahdavi, Rapha Gontijo Lopes, Tim Salimans, Jonathan Ho, David J Fleet, Mohammad Norouzi*  
+NeurIPS 2022 [[Paper](https://arxiv.org/abs/2205.11487)][[Project](https://imagen-ai.com/?v=0j)]
+
+**[DALL-E 2] Hierarchical Text-Conditional Image Generation with CLIP Latents**  
+*Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, Mark Chen*  
+arXiv 2022 [[Paper](https://arxiv.org/abs/2204.06125)]
+
+**GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models**  
+*Alex Nichol, Prafulla Dhariwal, Aditya Ramesh, Pranav Shyam, Pamela Mishkin, Bob McGrew, Ilya Sutskever, Mark Chen*  
+ICML 2022 [[Paper](https://arxiv.org/abs/2112.10741)][[Code](https://github.com/openai/glide-text2im)]
+
+**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**  
+*Kai Chen, Enze Xie, Zhe Chen, Lanqing Hong, Zhenguo Li, Dit-Yan Yeung*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2306.04607)][[Project](https://kaichen1998.github.io/projects/geodiffusion/)]
+
 **DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort**  
 *Yuxuan Zhang, Huan Ling, Jun Gao, Kangxue Yin, Jean-Francois Lafleche, Adela Barriuso, Antonio Torralba, Sanja Fidler*   
 CVPR 2021 [[Paper](https://arxiv.org/abs/2104.06490)][[Project](https://nv-tlabs.github.io/datasetGAN/)][[Code](https://github.com/nv-tlabs/datasetGAN_release/tree/master)]
