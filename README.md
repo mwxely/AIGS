@@ -83,7 +83,11 @@ CVPR 2021 [[Paper](https://arxiv.org/abs/2104.06490)][[Project](https://nv-tlabs
 *Daiqing Li, Huan Ling, Seung Wook Kim, Karsten Kreis, Adela Barriuso, Sanja Fidler, Antonio Torralba*  
 CVPR 2022 [[Paper](https://arxiv.org/abs/2201.04684)][[Project](https://nv-tlabs.github.io/big-datasetgan/)][[Code](https://github.com/nv-tlabs/bigdatasetgan_code)]
 
-HandsOff: Labeled Dataset Generation With No Additional Human Annotations
+**HandsOff: Labeled Dataset Generation With No Additional Human Annotations**  
+*Austin Xu, Mariya I. Vasileva, Achal Dave, Arjun Seshadri*  
+CVPR 2023 [[Paper](https://arxiv.org/abs/2212.12645)][[Project](https://austinxu87.github.io/handsoff/)][[Code](https://github.com/austinxu87/handsoff/)]
+
+
 
 On the generation of realistic synthetic petrographic datasets using a style-based GAN
 
@@ -124,7 +128,7 @@ Enhancement of Image Classification Using Transfer Learning and GAN-Based Synthe
 Diversify your vision datasets with automatic diffusion-based augmentation
 
 
-## Visual Perception
+## 2D Visual Perception
 <a id="2DVisualPerception-link"></a>
 
 ### Image Classification
@@ -239,7 +243,11 @@ Ensembling with Deep Generative Views
 
 DreamTeacher: Pretraining Image Backbones with Deep Generative Models
 
-## Robotics
+
+## 3D Visual Perception
+<a id="3DVisualPerception-link"></a>
+
+### Robotics
 <a id="Robotics-link"></a>
 **NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields**  
 *Thomas Lips, Victor-Louis De Gusseme, Francis wyffels*  
@@ -260,7 +268,7 @@ Vision-only robot navigation in a neural radiance world
 Event-based Camera Tracker by ∇t NeRF
 
 
-## Autonomous Driving
+### Autonomous Driving
 <a id="AutonomousDriving-link"></a>
 Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field
 
@@ -272,6 +280,7 @@ MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving
 
 
 ## Other Applications
+<a id="OtherApplications-link"></a>
 
 ### Medical
 <a id="Medical-link"></a>
