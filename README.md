@@ -136,7 +136,7 @@ NeurIPS 2023 [[Paper](https://arxiv.org/abs/2309.14303)[[Code](https://github.co
 
 **MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation**  
 *Jiahao Xie, Wei Li, Xiangtai Li, Ziwei Liu, Yew Soon Ong, Chen Change Loy*  
-arXiv 2023 [[Paper](https://arxiv.org/abs/2309.13042)][Code](https://github.com/Jiahao000/MosaicFusion)]
+arXiv 2023 [[Paper](https://arxiv.org/abs/2309.13042)][[Code](https://github.com/Jiahao000/MosaicFusion)]
 
 **Explore the Power of Synthetic Data on Few-shot Object Detection**  
 *Shaobo Lin, Kun Wang, Xingyu Zeng, Rui Zhao*  
