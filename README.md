@@ -110,7 +110,7 @@ arXiv 2022 [[Paper](https://arxiv.org/abs/2204.06125)]
 *Alex Nichol, Prafulla Dhariwal, Aditya Ramesh, Pranav Shyam, Pamela Mishkin, Bob McGrew, Ilya Sutskever, Mark Chen*  
 ICML 2022 [[Paper](https://arxiv.org/abs/2112.10741)][[Code](https://github.com/openai/glide-text2im)]
 
-**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**  
+**[GeoDiffusion] Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**  
 *Kai Chen, Enze Xie, Zhe Chen, Lanqing Hong, Zhenguo Li, Dit-Yan Yeung*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2306.04607)][[Project](https://kaichen1998.github.io/projects/geodiffusion/)]
 
@@ -126,22 +126,57 @@ CVPR 2022 [[Paper](https://arxiv.org/abs/2201.04684)][[Project](https://nv-tlabs
 *Austin Xu, Mariya I. Vasileva, Achal Dave, Arjun Seshadri*  
 CVPR 2023 [[Paper](https://arxiv.org/abs/2212.12645)][[Project](https://austinxu87.github.io/handsoff/)][[Code](https://github.com/austinxu87/handsoff/)]
 
-On the generation of realistic synthetic petrographic datasets using a style-based GAN
+**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**  
+*Weijia Wu, Yuzhong Zhao, Hao Chen, Yuchao Gu, Rui Zhao, Yefei He, Hong Zhou, Mike Zheng Shou, Chunhua Shen*  
+NeurIPS 2023 [[Paper](https://arxiv.org/abs/2308.06160)][[Project](https://weijiawu.github.io/DatasetDM_page/)][[Code](https://github.com/showlab/DatasetDM)]
 
-Learning to Annotate Part Segmentation with Gradient Matching
+**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**  
+*Quang Nguyen, Truong Vu, Anh Tran, Khoi Nguyen*  
+NeurIPS 2023 [[Paper](https://arxiv.org/abs/2309.14303)[[Code](https://github.com/VinAIResearch/Dataset-Diffusion)]
 
-Histopathology DatasetGAN: Synthesizing Large-Resolution Histopathology Datasets
+**MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation**  
+*Jiahao Xie, Wei Li, Xiangtai Li, Ziwei Liu, Yew Soon Ong, Chen Change Loy*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2309.13042)][Code](https://github.com/Jiahao000/MosaicFusion)]
 
-Application of DatasetGAN in medical imaging: preliminary studies
+**Explore the Power of Synthetic Data on Few-shot Object Detection**  
+*Shaobo Lin, Kun Wang, Xingyu Zeng, Rui Zhao*  
+CVPRW 2023 [[Paper](https://arxiv.org/abs/2303.13221)]
 
-Medical Image Segmentation Using Deep Learning: A Survey
+**DALL-E for Detection: Language-driven Compositional Image Synthesis for Object Detection**  
+*Yunhao Ge, Jiashu Xu, Brian Nlong Zhao, Neel Joshi, Laurent Itti, Vibhav Vineet*  
+arXiv 2022 [[Paper](https://arxiv.org/abs/2206.09592)][[Code](https://github.com/gyhandy/Text2Image-for-Detection)]
 
-Transformation-Consistent Self-Ensembling Model for Semisupervised Medical Image Segmentation
+**[SODGAN] Synthetic Data Supervised Salient Object Detection**  
+*Zhenyu Wu, Lin Wang, Wei Wang, Tengfei Shi, Chenglizhao Chen, Aimin Hao, Shuo Li*  
+ACM MM 2022 [[Paper](https://arxiv.org/abs/2210.13835)]
 
-A Data Augmentation Pipeline to Generate Synthetic Labeled Datasets of 3D Echocardiography Images Using a GAN
+**Label-Efficient Semantic Segmentation with Diffusion Models**  
+*Dmitry Baranchuk, Ivan Rubachev, Andrey Voynov, Valentin Khrulkov, Artem Babenko*  
+ICLR 2022 [[Paper](https://arxiv.org/abs/2112.03126)][[Project](https://yandex-research.github.io/ddpm-segmentation/)][[Code](https://github.com/yandex-research/ddpm-segmentation)]
+
+**[ODISE] Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models**  
+*Jiarui Xu, Sifei Liu, Arash Vahdat, Wonmin Byeon, Xiaolong Wang, Shalini De Mello*  
+CVPR 2023 [[Paper](https://arxiv.org/abs/2303.04803)][[Project](https://jerryxu.net/ODISE/)][[Code](https://github.com/NVlabs/ODISE)]
+
+**ImaginaryNet: Learning Object Detectors without Real Images and Annotations**  
+*Minheng Ni, Zitong Huang, Kailai Feng, Wangmeng Zuo*  
+ICLR 2023 [[Paper](https://arxiv.org/abs/2210.06886)][[Code](https://github.com/kodenii/ImaginaryNet)]
 
 ### Data Augmentation
 <a id="GenDataAugmentation-link"></a>
+
+**[StyleGAN 2]Analyzing and Improving the Image Quality of StyleGAN**  
+*Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, Timo Aila*  
+CVPR 2020 [[Paper](https://arxiv.org/abs/1912.04958)][[Code](https://github.com/NVlabs/stylegan2)][[Video](https://www.youtube.com/watch?v=c-NJtV9Jvp0&feature=youtu.be)]
+
+**GAN Augmentation: Augmenting Training Data using Generative Adversarial Networks**  
+*Christopher Bowles, Liang Chen, Ricardo Guerrero, Paul Bentley, Roger Gunn, Alexander Hammers, David Alexander Dickie, Maria Valdés Hernández, Joanna Wardlaw, Daniel Rueckert*  
+arXiv 2018 [[Paper](https://arxiv.org/abs/1810.10863)]
+
+**Enhancement of Image Classification Using Transfer Learning and GAN-Based Synthetic Data Augmentation**  
+*Subhajit Chatterjee, Debapriya Hazra, Yung-Cheol Byun, Yong-Woon Kim*  
+Mathmatics 2022 [[Paper](https://www.mdpi.com/2227-7390/10/9/1541)]
+
 **A data augmentation perspective on diffusion models and retrieval**  
 *Max F. Burg, Florian Wenzel, Dominik Zietlow, Max Horn, Osama Makansi, Francesco Locatello, Chris Russell*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2304.10253)]
@@ -150,19 +185,9 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2304.10253)]
 *Brandon Trabucco, Kyle Doherty, Max Gurinas, Ruslan Salakhutdinov*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2302.07944)][[Project](http://btrabuc.co/da-fusion/)]
 
-**Skin Lesion Classification Using GAN based Data Augmentation**  
-*Rashid Haroon, Tanveer M. Asjid, Aqeel Khan Hassan*  
-EMBC 2019 [[Paper](https://ieeexplore.ieee.org/document/8857905)]
-
-GAN-based synthetic medical image augmentation for increased CNN performance in liver lesion classification
-
-Data augmentation generative adversarial networks
-
-Gan augmentation: Augmenting training data using generative adversarial networks
-
-Enhancement of Image Classification Using Transfer Learning and GAN-Based Synthetic Data Augmentation
-
-Diversify your vision datasets with automatic diffusion-based augmentation
+**Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation**  
+*Lisa Dunlap, Alyssa Umino, Han Zhang, Jiezhi Yang, Joseph E. Gonzalez, Trevor Darrell*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2305.16289)][[Code](https://github.com/lisadunlap/ALIA)]
 
 
 ## Neural Rendering
@@ -334,6 +359,12 @@ MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving
 
 ### Medical
 <a id="Medical-link"></a>
+
+**Skin Lesion Classification Using GAN based Data Augmentation**  
+*Rashid Haroon, Tanveer M. Asjid, Aqeel Khan Hassan*  
+EMBC 2019 [[Paper](https://ieeexplore.ieee.org/document/8857905)]
+
+**GAN-based synthetic medical image augmentation for increased CNN performance in liver lesion classification**
 
 ### Testing Data
 <a id="Test-link"></a>
