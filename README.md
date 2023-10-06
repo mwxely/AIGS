@@ -73,7 +73,7 @@ Applications:
 Datasets:
 - [Datasets](#Datasets-link)
 
-## Dataset Generation
+## Label Acquisition
 <a id="LabelAcquisition-link"></a>
 **DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort**  
 *Yuxuan Zhang, Huan Ling, Jun Gao, Kangxue Yin, Jean-Francois Lafleche, Adela Barriuso, Antonio Torralba, Sanja Fidler*   
