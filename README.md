@@ -110,10 +110,6 @@ arXiv 2022 [[Paper](https://arxiv.org/abs/2204.06125)]
 *Alex Nichol, Prafulla Dhariwal, Aditya Ramesh, Pranav Shyam, Pamela Mishkin, Bob McGrew, Ilya Sutskever, Mark Chen*  
 ICML 2022 [[Paper](https://arxiv.org/abs/2112.10741)][[Code](https://github.com/openai/glide-text2im)]
 
-**[GeoDiffusion] Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**  
-*Kai Chen, Enze Xie, Zhe Chen, Lanqing Hong, Zhenguo Li, Dit-Yan Yeung*  
-arXiv 2023 [[Paper](https://arxiv.org/abs/2306.04607)][[Project](https://kaichen1998.github.io/projects/geodiffusion/)]
-
 **DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort**  
 *Yuxuan Zhang, Huan Ling, Jun Gao, Kangxue Yin, Jean-Francois Lafleche, Adela Barriuso, Antonio Torralba, Sanja Fidler*   
 CVPR 2021 [[Paper](https://arxiv.org/abs/2104.06490)][[Project](https://nv-tlabs.github.io/datasetGAN/)][[Code](https://github.com/nv-tlabs/datasetGAN_release/tree/master)]
@@ -138,29 +134,10 @@ NeurIPS 2023 [[Paper](https://arxiv.org/abs/2309.14303)[[Code](https://github.co
 *Jiahao Xie, Wei Li, Xiangtai Li, Ziwei Liu, Yew Soon Ong, Chen Change Loy*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2309.13042)][[Code](https://github.com/Jiahao000/MosaicFusion)]
 
-**Explore the Power of Synthetic Data on Few-shot Object Detection**  
-*Shaobo Lin, Kun Wang, Xingyu Zeng, Rui Zhao*  
-CVPRW 2023 [[Paper](https://arxiv.org/abs/2303.13221)]
-
-**DALL-E for Detection: Language-driven Compositional Image Synthesis for Object Detection**  
-*Yunhao Ge, Jiashu Xu, Brian Nlong Zhao, Neel Joshi, Laurent Itti, Vibhav Vineet*  
-arXiv 2022 [[Paper](https://arxiv.org/abs/2206.09592)][[Code](https://github.com/gyhandy/Text2Image-for-Detection)]
-
-**[SODGAN] Synthetic Data Supervised Salient Object Detection**  
-*Zhenyu Wu, Lin Wang, Wei Wang, Tengfei Shi, Chenglizhao Chen, Aimin Hao, Shuo Li*  
-ACM MM 2022 [[Paper](https://arxiv.org/abs/2210.13835)]
-
 **Label-Efficient Semantic Segmentation with Diffusion Models**  
 *Dmitry Baranchuk, Ivan Rubachev, Andrey Voynov, Valentin Khrulkov, Artem Babenko*  
 ICLR 2022 [[Paper](https://arxiv.org/abs/2112.03126)][[Project](https://yandex-research.github.io/ddpm-segmentation/)][[Code](https://github.com/yandex-research/ddpm-segmentation)]
 
-**[ODISE] Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models**  
-*Jiarui Xu, Sifei Liu, Arash Vahdat, Wonmin Byeon, Xiaolong Wang, Shalini De Mello*  
-CVPR 2023 [[Paper](https://arxiv.org/abs/2303.04803)][[Project](https://jerryxu.net/ODISE/)][[Code](https://github.com/NVlabs/ODISE)]
-
-**ImaginaryNet: Learning Object Detectors without Real Images and Annotations**  
-*Minheng Ni, Zitong Huang, Kailai Feng, Wangmeng Zuo*  
-ICLR 2023 [[Paper](https://arxiv.org/abs/2210.06886)][[Code](https://github.com/kodenii/ImaginaryNet)]
 
 ### Data Augmentation
 <a id="GenDataAugmentation-link"></a>
@@ -195,6 +172,13 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2305.16289)][[Code](https://github.com
 
 ### Label Acquisition
 <a id="NeuLabelAcquisition-link"></a>
+
+**VMRF: View Matching Neural Radiance Fields**  
+
+
+**NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields**  
+*Thomas Lips, Victor-Louis De Gusseme, Francis wyffels*  
+ICRA 2022 [[Paper](https://arxiv.org/abs/2203.01913)][[Project](https://yenchenlin.me/nerf-supervision/)][[Code](https://github.com/yenchenlin/nerf-supervision-public)][[Video](https://www.youtube.com/watch?v=_zN-wVwPH1s)]
 
 
 ### Data Augmentation
@@ -256,25 +240,37 @@ Few-shot 3D Multi-modal Medical Image Segmentation using Generative Adversarial 
 
 Segmentation in Style: Unsupervised Semantic Image Segmentation with Stylegan and CLIP
 
-ODISE
+**[ODISE] Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models**  
+*Jiarui Xu, Sifei Liu, Arash Vahdat, Wonmin Byeon, Xiaolong Wang, Shalini De Mello*  
+CVPR 2023 [[Paper](https://arxiv.org/abs/2303.04803)][[Project](https://jerryxu.net/ODISE/)][[Code](https://github.com/NVlabs/ODISE)]
+
 
 ### Object Detection
 <a id="Detection-link"></a>
-**DALL-E for Detection: Language-driven Compositional Image Synthesis for Object Detection**  
-*Yunhao Ge, Jiashu Xu, Brian Nlong Zhao, Neel Joshi, Laurent Itti, Vibhav Vineet*  
-arXiv 2022 [[Paper](https://arxiv.org/abs/2206.09592)]
+
+**[GeoDiffusion] Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**  
+*Kai Chen, Enze Xie, Zhe Chen, Lanqing Hong, Zhenguo Li, Dit-Yan Yeung*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2306.04607)][[Project](https://kaichen1998.github.io/projects/geodiffusion/)]
 
 **Explore the Power of Synthetic Data on Few-shot Object Detection**  
-*Shaobo Lin, Kun Wang, Xingyu Zeng, Rui Zhao*   
-CVPR 2023 [[Paper](https://arxiv.org/abs/2303.13221)]
+*Shaobo Lin, Kun Wang, Xingyu Zeng, Rui Zhao*  
+CVPRW 2023 [[Paper](https://arxiv.org/abs/2303.13221)]
+
+**DALL-E for Detection: Language-driven Compositional Image Synthesis for Object Detection**  
+*Yunhao Ge, Jiashu Xu, Brian Nlong Zhao, Neel Joshi, Laurent Itti, Vibhav Vineet*  
+arXiv 2022 [[Paper](https://arxiv.org/abs/2206.09592)][[Code](https://github.com/gyhandy/Text2Image-for-Detection)]
+
+**[SODGAN] Synthetic Data Supervised Salient Object Detection**  
+*Zhenyu Wu, Lin Wang, Wei Wang, Tengfei Shi, Chenglizhao Chen, Aimin Hao, Shuo Li*  
+ACM MM 2022 [[Paper](https://arxiv.org/abs/2210.13835)]
+
+**ImaginaryNet: Learning Object Detectors without Real Images and Annotations**  
+*Minheng Ni, Zitong Huang, Kailai Feng, Wangmeng Zuo*  
+ICLR 2023 [[Paper](https://arxiv.org/abs/2210.06886)][[Code](https://github.com/kodenii/ImaginaryNet)]
 
 **The Big Data Myth: Using Diffusion Models for Dataset Generation to Train Deep Detection Models**  
 *Roy Voetman, Maya Aghaei, Klaas Dijkstra*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2306.09762)]
-
-IMAGINARYNET: LEARNING OBJECT DETECTORS WITHOUT REAL IMAGES AND ANNOTATIONS
-
-Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt
 
 
 ## Visual Generation
@@ -324,13 +320,8 @@ DreamTeacher: Pretraining Image Backbones with Deep Generative Models
 
 ### Robotics
 <a id="Robotics-link"></a>
-**NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields**  
-*Thomas Lips, Victor-Louis De Gusseme, Francis wyffels*  
-ICRA 2022 [[Paper](https://arxiv.org/abs/2203.01913)][[Project](https://yenchenlin.me/nerf-supervision/)][[Code](https://github.com/yenchenlin/nerf-supervision-public)][[Video](https://www.youtube.com/watch?v=_zN-wVwPH1s)]
 
 INeRF: Inverting Neural Radiance Fields for Pose Estimation
-
-VMRF: View Matching Neural Radiance Fields
 
 LENS: Localization enhanced by NeRF synthesis
 
@@ -360,35 +351,59 @@ MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving
 ### Medical
 <a id="Medical-link"></a>
 
+**[MedGAN] Generating Multi-label Discrete Patient Records using Generative Adversarial Networks**  
+*Edward Choi, Siddharth Biswal, Bradley Malin, Jon Duke, Walter F. Stewart, Jimeng Sun*  
+MLHC 2017 [[Paper](https://arxiv.org/abs/1703.06490)]
+
+**CorGAN: Correlation-Capturing Convolutional Generative Adversarial Networks for Generating Synthetic Healthcare Records**  
+*Amirsina Torfi, Edward A. Fox*  
+FLAIRS 2020 [[Paper](https://arxiv.org/abs/2001.09346)][[Code](https://github.com/astorfi/cor-gan)]
+
 **Skin Lesion Classification Using GAN based Data Augmentation**  
 *Rashid Haroon, Tanveer M. Asjid, Aqeel Khan Hassan*  
 EMBC 2019 [[Paper](https://ieeexplore.ieee.org/document/8857905)]
 
-**GAN-based synthetic medical image augmentation for increased CNN performance in liver lesion classification**
+**GAN-based synthetic medical image augmentation for increased CNN performance in liver lesion classification**  
+*Maayan Frid-Adar, Idit Diamant, Eyal Klang, Michal Amitai, Jacob Goldberger, Hayit Greenspan*  
+Neurocomputing 2018 [[Paper](https://arxiv.org/abs/1803.01229)]
+
+**Synthetic data augmentation using GAN for improved liver lesion classification**  
+*Maayan Frid-Adar, Eyal Klang, Michal Amitai, Jacob Goldberger, Hayit Greenspan*  
+ISBI 2018 [[Paper](https://arxiv.org/abs/1801.02385)]
+
+**Leveraging GANs for data scarcity of COVID-19: Beyond the hype**  
+*Hazrat Ali, Christer Gronlund, Zubair Shah*  
+CVPRW 2023 [[Paper](https://arxiv.org/abs/2304.03536)]
 
 ### Testing Data
 <a id="Test-link"></a>
 
+**Benchmarking Deepart Detection**  
+*Yabin Wang, Zhiwu Huang, Xiaopeng Hong*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2302.14475)]
+
+**Benchmarking Robustness to Text-Guided Corruptions**  
+*Mohammadreza Mofayezi, Yasamin Medghalchi*  
+CVPRW 2023 [[Paper](https://arxiv.org/abs/2304.02963)][[Code](https://github.com/ckoorosh/RobuText)]
+
 
 ## Datasets
 <a id="Datasets-link"></a>
-**DiffusionDB: A Large-scale Prompt Gallery Dataset for Text-to-Image Generative Models**  
-*Zijie J. Wang, Evan Montoya, David Munechika, Haoyang Yang, Benjamin Hoover, Duen Horng Chau*  
-ACL 2023 [[Paper](https://arxiv.org/abs/2210.14896)][[Project](https://poloclub.github.io/diffusiondb/)][[Code](https://github.com/poloclub/diffusiondb)]
 
-**JourneyDB: A Benchmark for Generative Image Understanding**  
-*Junting Pan, Keqiang Sun, Yuying Ge, Hao Li, Haodong Duan, Xiaoshi Wu, Renrui Zhang, Aojun Zhou, Zipeng Qin, Yi Wang, Jifeng Dai, Yu Qiao, Hongsheng Li*  
-arXiv 2023 [[Paper](https://arxiv.org/abs/2307.00716)][[Project](https://journeydb.github.io/)][[Code](https://github.com/JourneyDB/JourneyDB)]
 
-**GenImage: A Million-Scale Benchmark for Detecting AI-Generated Image**  
-*Mingjian Zhu, Hanting Chen, Qiangyu Yan, Xudong Huang, Guanyu Lin, Wei Li, Zhijun Tu, Hailin Hu, Jie Hu, Yunhe Wang*  
-arXiv 2023 [[Paper](https://arxiv.org/abs/2306.08571)][[Project](https://genimage-dataset.github.io/)][[Code](https://github.com/GenImage-Dataset/GenImage)]
+DiffusionDB (https://github.com/poloclub/diffusiondb)  
 
-DiffusionDB (https://huggingface.co/datasets/poloclub/diffusiondb)  
+JourneyDB (https://github.com/JourneyDB/JourneyDB)  
 
-JourneyDB (https://docs.google.com/forms/d/e/1FAIpQLSeiciK0g0IA46_hFaitRhdpihhpjqt3helJNT68y-C8MfKhiQ/viewform?pli=1)  
+DFFD (http://cvlab.cse.msu.edu/dffd-dataset.html)  
 
-GenImage (https://pan.baidu.com/share/init?surl=i0OFqYN5i6oFAxeK6bIwRQ#list/path=%2F)  
+ForgeryNet (https://yinanhe.github.io/projects/forgerynet.html)  
+
+CNNSpot (https://github.com/peterwang512/CNNDetection)  
+
+GenImage (https://github.com/GenImage-Dataset/GenImage)  
+
+IEEE VIP Cup (https://grip-unina.github.io/vipcup2022/)  
 
 
 ## Citation
