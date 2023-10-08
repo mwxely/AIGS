@@ -5,15 +5,30 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)  
+
+<div align="center">
+  
+<h1>AI-Generated Images as Data Source: The Dawn of Synthetic Era [<a href="https://arxiv.org/abs/2310.01830">Paper</a>]</h1>  
+
+<div>
+    <a href='https://mwxely.github.io/' target='_blank'>Zuhao Yang</a>&emsp;
+    <a href='https://fnzhan.com/' target='_blank'>Fangneng Zhan</a>&emsp;
+    <a href='https://kunhao-liu.github.io/' target='_blank'>Kunhao Liu</a>&emsp;
+    Muyu Xu</a>&emsp;
+    <a href='https://personal.ntu.edu.sg/shijian.lu/' target='_blank'>Shijian Lu</a>
+</div>
+
+<div>
+    Nanyang Technological University, Max Planck Institute for Informatics&emsp; 
+</div>
+  
+</div>
+
+<br><img src='teaser.png' align="center"><br>
+
+<object data="teaser.pdf" type="application/pdf"></object>
+
 This project is associated with our survey paper which comprehensively contextualizes the advance of the recent **AI**-**G**enerated Images as Data **S**ource (**AIGS**) and visual AIGC by formulating taxonomies according to methodologies and applications.
-
-<img src='teaser.png' align="center">
-
-**AI-Generated Images as Data Source: The Dawn of Synthetic Era** [[Paper](https://arxiv.org/abs/2310.01830)]  
-*Zuhao Yang, Fangneng Zhan, Kunhao Liu, Muyu Xu, Shijian Lu*  
-arXiv, 2023 
-
-<br>
 
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 You are welcome to promote papers via pull request. <br>
