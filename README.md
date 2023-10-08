@@ -89,6 +89,9 @@ Applications:
 
 Datasets:
 - [Datasets](#Datasets-link)
+  - [Text-image Aligned](#TextimageAligned-link)
+  - [Human Preference](#HumanPreference-link)
+  - [Deepfake Detection](#DeepfakeDetection-link)
 
 
 # Methods
@@ -429,15 +432,24 @@ CVPRW 2023 [[Paper](https://arxiv.org/abs/2304.02963)][[Code](https://github.com
 ## Datasets
 <a id="Datasets-link"></a>
 
+### Text-image Aligned
+<a id="TextimageAligned-link"></a>
+
 DiffusionDB (https://github.com/poloclub/diffusiondb)  
 
-JourneyDB (https://github.com/JourneyDB/JourneyDB)  
+JourneyDB (https://github.com/JourneyDB/JourneyDB)
+
+### Human Preference
+<a id="HumanPreference-link"></a>
 
 Pick-a-Pic v2 (https://huggingface.co/datasets/yuvalkirstain/pickapic_v2)  
 
 ImageReward (https://huggingface.co/datasets/THUDM/ImageRewardDB)  
 
 HPD v2 (https://huggingface.co/datasets/xswu/human_preference_dataset)  
+
+### Deepfake Detection
+<a id="DeepfakeDetection-link"></a>
 
 DFFD (http://cvlab.cse.msu.edu/dffd-dataset.html)  
 
