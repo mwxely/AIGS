@@ -26,8 +26,6 @@
 
 <br><img src='teaser.png' align="center"><br>
 
-<object data="teaser.pdf" type="application/pdf"></object>
-
 This project is associated with our survey paper which comprehensively contextualizes the advance of the recent **AI**-**G**enerated Images as Data **S**ource (**AIGS**) and visual AIGC by formulating taxonomies according to methodologies and applications.
 
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
