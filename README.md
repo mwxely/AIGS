@@ -216,9 +216,9 @@ NeurIPS 2022 [[Paper](https://arxiv.org/abs/2210.04133)]
 *Shu Kong, Deva Ramanan*  
 ICCV 2021 [[Paper](https://arxiv.org/abs/2104.02939)][[Project](https://www.cs.cmu.edu/~shuk/OpenGAN.html)][[Code](https://github.com/aimerykong/OpenGAN)][[Video](https://www.youtube.com/watch?v=CNYqYXyUHn0)]
 
-Image Captions are Natural Prompts for Text-to-Image Models
+**Image Captions are Natural Prompts for Text-to-Image Models**  
 
-Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels
+**Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels**  
 
 ### Image Segmentation
 <a id="Segmentation-link"></a>
@@ -242,11 +242,13 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2306.09316)]
 *Weimin Tan, Siyuan Chen, Bo Yan*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2307.00773)]
 
-Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization
+**Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization**  
 
-Few-shot 3D Multi-modal Medical Image Segmentation using Generative Adversarial Learning
+**Few-shot 3D Multi-modal Medical Image Segmentation using Generative Adversarial Learning**  
 
-Segmentation in Style: Unsupervised Semantic Image Segmentation with Stylegan and CLIP
+**Segmentation in Style: Unsupervised Semantic Image Segmentation with Stylegan and CLIP**  
+
+**DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models**  
 
 **BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations**  
 *Daiqing Li, Huan Ling, Seung Wook Kim, Karsten Kreis, Adela Barriuso, Sanja Fidler, Antonio Torralba*  
