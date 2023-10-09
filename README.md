@@ -93,12 +93,12 @@ Datasets:
   - [Deepfake Detection](#DeepfakeDetection-link)
 
 
-# Methods
+## Methods
 
-## Generative Models
+### Generative Models
 <a id="GenerativeModels-link"></a>
 
-### Label Acquisition
+#### *Label Acquisition*
 <a id="GenLabelAcquisition-link"></a>
 
 **[BigGAN] Large Scale GAN Training for High Fidelity Natural Image Synthesis**  
@@ -138,7 +138,7 @@ NeurIPS 2023 [[Paper](https://arxiv.org/abs/2308.06160)][[Project](https://weiji
 arXiv 2022 [[Paper](https://arxiv.org/abs/2206.09592)][[Code](https://github.com/gyhandy/Text2Image-for-Detection)]
 
 
-### Data Augmentation
+#### *Data Augmentation*
 <a id="GenDataAugmentation-link"></a>
 
 **[StyleGAN 2]Analyzing and Improving the Image Quality of StyleGAN**  
@@ -167,11 +167,12 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2302.07944)][[Project](http://btrabuc.
 *Lisa Dunlap, Alyssa Umino, Han Zhang, Jiezhi Yang, Joseph E. Gonzalez, Trevor Darrell*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2305.16289)][[Code](https://github.com/lisadunlap/ALIA)]
 
+<br>
 
-## Neural Rendering
+### Neural Rendering
 <a id="NeuralRendering-link"></a>
 
-### Label Acquisition
+#### *Label Acquisition*
 <a id="NeuLabelAcquisition-link"></a>
 
 **VMRF: View Matching Neural Radiance Fields**  
@@ -183,7 +184,7 @@ ACM MM 2022 [[Paper](https://arxiv.org/abs/2207.02621)]
 ICRA 2022 [[Paper](https://arxiv.org/abs/2203.01913)][[Project](https://yenchenlin.me/nerf-supervision/)][[Code](https://github.com/yenchenlin/nerf-supervision-public)][[Video](https://www.youtube.com/watch?v=_zN-wVwPH1s)]
 
 
-### Data Augmentation
+#### *Data Augmentation*
 <a id="NeuDataAugmentation-link"></a>
 
 **Neural-Sim: Learning to Generate Training Data with NeRF**  
@@ -194,13 +195,14 @@ ECCV 2022 [[Paper](https://arxiv.org/abs/2207.11368)][[Code](https://github.com/
 *Wenwen Tong, Jiangwei Xie, Tianyu Li, Hanming Deng, Xiangwei Geng, Ruoyi Zhou, Dingchen Yang, Bo Dai, Lewei Lu, Hongyang Li*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2303.10340)]
 
+<br>
 
-# Applications
+## Applications
 
-## 2D Visual Perception
+### 2D Visual Perception
 <a id="2DVisualPerception-link"></a>
 
-### Image Classification
+#### *Image Classification*
 <a id="Classification-link"></a>
 
 **This Dataset Does Not Exist: Training Models from Generated Images**  
@@ -240,7 +242,7 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2304.08466)]
 **Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels**  
 
 
-### Image Segmentation
+#### *Image Segmentation*
 <a id="Segmentation-link"></a>
 **Learning Semantic Segmentation from Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach**  
 *Yuhua Chen, Wen Li, Xiaoran Chen, Luc Van Gool*  
@@ -311,7 +313,7 @@ ICLR 2022 [[Paper](https://arxiv.org/abs/2112.03126)][[Project](https://yandex-r
 CVPR 2023 [[Paper](https://arxiv.org/abs/2303.04803)][[Project](https://jerryxu.net/ODISE/)][[Code](https://github.com/NVlabs/ODISE)]
 
 
-### Object Detection
+#### *Object Detection*
 <a id="Detection-link"></a>
 
 **[GeoDiffusion] Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**  
@@ -334,8 +336,9 @@ ICLR 2023 [[Paper](https://arxiv.org/abs/2210.06886)][[Code](https://github.com/
 *Roy Voetman, Maya Aghaei, Klaas Dijkstra*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2306.09762)]
 
+<br>
 
-## Visual Generation
+### Visual Generation
 <a id="VisualGeneration-link"></a>
 **Re-Aging GAN: Toward Personalized Face Age Transformation**  
 *Farkhod Makhmudkhujaev, Sungeun Hong, and In Kyu Park*  
@@ -361,8 +364,9 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2303.13508)][[Project](https://dreambo
 *Chi Zhang, Yiwen Chen, Yijun Fu, Zhenglin Zhou, Gang YU, Billzb Wang, Bin Fu, Tao Chen, Guosheng Lin, Chunhua Shen*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2305.19012)]
 
+<br>
 
-## Self-supervised Learning
+### Self-supervised Learning
 <a id="SelfsupervisedLearning-link"></a>
 **Generative Models as a Data Source for Multiview Representation Learning**  
 *Ali Jahanian, Xavier Puig, Yonglong Tian, Phillip Isola*  
@@ -380,11 +384,12 @@ CVPR 2021 [[Paper](https://arxiv.org/abs/2104.14551)][[Project](https://chail.gi
 *Daiqing Li, Huan Ling, Amlan Kar, David Acuna, Seung Wook Kim, Karsten Kreis, Antonio Torralba, Sanja Fidler*  
 ICCV 2023 [[Paper](https://arxiv.org/abs/2307.07487)][[Project](https://research.nvidia.com/labs/toronto-ai/DreamTeacher/)]
 
+<br>
 
-## 3D Visual Perception
+### 3D Visual Perception
 <a id="3DVisualPerception-link"></a>
 
-### Robotics
+#### *Robotics*
 <a id="Robotics-link"></a>
 
 **INeRF: Inverting Neural Radiance Fields for Pose Estimation**  
@@ -408,7 +413,7 @@ RAL 2022 [[Paper](https://arxiv.org/abs/2110.00168)][[Project](https://mikh3x4.g
 WACV 2023 [[Paper](https://arxiv.org/abs/2304.04559)]
 
 
-### Autonomous Driving
+#### *Autonomous Driving*
 <a id="AutonomousDriving-link"></a>
 
 **Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field**  
@@ -423,11 +428,12 @@ CVPR 2023 [[Paper](https://arxiv.org/abs/2308.01898)][[Project](https://waabi.ai
 *Zirui Wu, Tianyu Liu, Liyi Luo, Zhide Zhong, Jianteng Chen, Hongmin Xiao, Chao Hou, Haozhe Lou, Yuantao Chen, Runyi Yang, Yuxin Huang, Xiaoyu Ye, Zike Yan, Yongliang Shi, Yiyi Liao, Hao Zhao*  
 CICAI 2023 [[Paper](https://arxiv.org/abs/2307.15058)][[Project](https://open-air-sun.github.io/mars/)][[Code](https://github.com/OPEN-AIR-SUN/mars)][[Video](https://www.youtube.com/watch?v=AdC-jglWvfU)]
 
+<br>
 
-## Other Applications
+### Other Applications
 <a id="OtherApplications-link"></a>
 
-### Medical
+#### *Medical*
 <a id="Medical-link"></a>
 
 **[MedGAN] Generating Multi-label Discrete Patient Records using Generative Adversarial Networks**  
@@ -458,7 +464,7 @@ ISBI 2018 [[Paper](https://arxiv.org/abs/1801.02385)]
 *Hazrat Ali, Christer Gronlund, Zubair Shah*  
 CVPRW 2023 [[Paper](https://arxiv.org/abs/2304.03536)]
 
-### Testing Data
+#### *Testing Data*
 <a id="Test-link"></a>
 
 **Benchmarking Deepart Detection**  
@@ -469,17 +475,18 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2302.14475)]
 *Mohammadreza Mofayezi, Yasamin Medghalchi*  
 CVPRW 2023 [[Paper](https://arxiv.org/abs/2304.02963)][[Code](https://github.com/ckoorosh/RobuText)]
 
+<br>
 
-# Datasets
+## Datasets
 
-## Text-image Aligned
+### Text-image Aligned
 <a id="TextimageAligned-link"></a>
 
 DiffusionDB (https://github.com/poloclub/diffusiondb)  
 
 JourneyDB (https://github.com/JourneyDB/JourneyDB)
 
-## Human Preference
+### Human Preference
 <a id="HumanPreference-link"></a>
 
 Pick-a-Pic v2 (https://huggingface.co/datasets/yuvalkirstain/pickapic_v2)  
@@ -488,7 +495,7 @@ ImageReward (https://huggingface.co/datasets/THUDM/ImageRewardDB)
 
 HPD v2 (https://huggingface.co/datasets/xswu/human_preference_dataset)  
 
-## Deepfake Detection
+### Deepfake Detection
 <a id="DeepfakeDetection-link"></a>
 
 DFFD (http://cvlab.cse.msu.edu/dffd-dataset.html)  
