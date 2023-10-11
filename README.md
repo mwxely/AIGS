@@ -280,23 +280,33 @@ CVPR 2021 [[Paper](https://arxiv.org/abs/2104.05833)][[Project](https://nv-tlabs
 *Nontawat Tritrong, Pitchaporn Rewatbowornwong, Supasorn Suwajanakorn*  
 CVPR 2021 [[Paper](https://arxiv.org/abs/2103.04379)][[Project](https://repurposegans.github.io/)][[Code](https://github.com/bryandlee/repurpose-gan/)]
 
-**Few-shot 3d multi-modal medical image segmentation using generative adversarial learning**  
+**Few-shot 3D Multi-modal Medical Image Segmentation using Generative Adversarial Learning**  
+*Arnab Kumar Mondal, Jose Dolz, Christian Desrosiers*  
+arXiv 2018 [[Paper](https://arxiv.org/abs/1810.12241)][[Code](https://github.com/arnab39/FewShot_GAN-Unet3D)]
 
-**Semi and weakly supervised semantic segmentation using generative adversarial network**  
+**Semi and Weakly Supervised Semantic Segmentation Using Generative Adversarial Network**  
+*Nasim Souly, Concetto Spampinato, Mubarak Shah*  
+ICCV 2017 [[Paper](https://arxiv.org/abs/1703.09695)]
 
-**Using GANs to augment data for cloud image segmentation task**  
+**Using GANs to Augment Data for Cloud Image Segmentation Task**  
+*Mayank Jain, Conor Meegan, Soumyabrata Dev*  
+ICARSS 2021 [[Paper](https://arxiv.org/abs/2106.03064)]
 
 **Diffusion Models for Zero-Shot Open-Vocabulary Segmentation**  
 *Laurynas Karazija, Iro Laina, Andrea Vedaldi, Christian Rupprecht*  
-arXiv 2023 [[Paper](https://arxiv.org/abs/2306.09316)]
+arXiv 2023 [[Paper](https://arxiv.org/abs/2306.09316)][[Code](https://github.com/jain15mayank/GAN-augmentation-cloud-image-segmentation)]
 
 **Open-vocabulary Object Segmentation with Diffusion Models**  
+*Ziyi Li, Qinye Zhou, Xiaoyun Zhang, Ya Zhang, Yanfeng Wang, Weidi Xie*  
+ICCV 2023 [[Paper](https://arxiv.org/abs/2301.05221)][[Project](https://lipurple.github.io/Grounded_Diffusion/)][[Code](https://github.com/Lipurple/Grounded-Diffusion)]
 
 **Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization**  
-
-**Few-shot 3D Multi-modal Medical Image Segmentation using Generative Adversarial Learning**  
+*Daiqing Li, Junlin Yang, Karsten Kreis, Antonio Torralba, Sanja Fidler*  
+CVPR 2021 [[Paper](https://arxiv.org/abs/2104.05833)][[Project](https://nv-tlabs.github.io/semanticGAN/)][[Code](https://github.com/nv-tlabs/semanticGAN_code)]
 
 **Segmentation in Style: Unsupervised Semantic Image Segmentation with Stylegan and CLIP**  
+*Daniil Pakhomov, Sanchit Hira, Narayani Wagle, Kemar E. Green, Nassir Navab*  
+arXiv 2021 [[Paper](https://arxiv.org/abs/2107.12518)][[Project](https://segmentation-in-style.github.io/)][[Code](https://github.com/warmspringwinds/segmentation_in_style)][[Video](https://www.youtube.com/watch?v=ik-v3e1Qmd0)]
 
 **BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations**  
 *Daiqing Li, Huan Ling, Seung Wook Kim, Karsten Kreis, Adela Barriuso, Sanja Fidler, Antonio Torralba*  
@@ -307,26 +317,36 @@ CVPR 2022 [[Paper](https://arxiv.org/abs/2201.04684)][[Project](https://nv-tlabs
 CVPR 2023 [[Paper](https://arxiv.org/abs/2212.12645)][[Project](https://austinxu87.github.io/handsoff/)][[Code](https://github.com/austinxu87/handsoff/)]
 
 **DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models**  
+*Weijia Wu, Yuzhong Zhao, Mike Zheng Shou, Hong Zhou, Chunhua Shen*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2303.11681)][[Project](https://weijiawu.github.io/DiffusionMask/)][[Code](https://github.com/weijiawu/DiffuMask)]
 
 **Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**  
 *Quang Nguyen, Truong Vu, Anh Tran, Khoi Nguyen*  
-NeurIPS 2023 [[Paper](https://arxiv.org/abs/2309.14303)[[Code](https://github.com/VinAIResearch/Dataset-Diffusion)]
+NeurIPS 2023 [[Paper](https://arxiv.org/abs/2309.14303)][[Code](https://github.com/VinAIResearch/Dataset-Diffusion)]
 
 **MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation**  
 *Jiahao Xie, Wei Li, Xiangtai Li, Ziwei Liu, Yew Soon Ong, Chen Change Loy*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2309.13042)][[Code](https://github.com/Jiahao000/MosaicFusion)]
 
-**Self-ensembling with gan-based data augmentation for domain adaptation in semantic segmentation**  
+**Self-Ensembling with GAN-based Data Augmentation for Domain Adaptation in Semantic Segmentation**  
+*Jaehoon Choi, Taekyung Kim, Changick Kim*  
+ICCV 2019 [[Paper](https://arxiv.org/abs/1909.00589)]
 
 **Intra-Source Style Augmentation for Improved Domain Generalization**  
+*Yumeng Li, Dan Zhang, Margret Keuper, Anna Khoreva*  
+WACV 2023 [[Paper](https://arxiv.org/abs/2210.10175)][[Code](https://github.com/boschresearch/ISSA)]
 
 **DifFSS: Diffusion Model for Few-Shot Semantic Segmentation**  
 *Weimin Tan, Siyuan Chen, Bo Yan*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2307.00773)]
 
-**Pixel level data augmentation for semantic image segmentation using generative adversarial networks**  
+**Pixel Level Data Augmentation for Semantic Image Segmentation using Generative Adversarial Networks**  
+*Shuangting Liu, Jiaqi Zhang, Yuxin Chen, Yifan Liu, Zengchang Qin, Tao Wan*  
+ICASSP 2019 [[Paper](https://arxiv.org/abs/1811.00174)]
 
 **Can segmentation models be trained with fully synthetically generated data?**  
+*Virginia Fernandez, Walter Hugo Lopez Pinaya, Pedro Borges, Petru Daniel Tudosiu, Mark S. Graham, Tom Vercauteren, M. Jorge Cardoso*  
+MICCAI 2022 [[Paper](https://arxiv.org/abs/2209.08256)]
 
 **Label-Efficient Semantic Segmentation with Diffusion Models**  
 *Dmitry Baranchuk, Ivan Rubachev, Andrey Voynov, Valentin Khrulkov, Artem Babenko*  
