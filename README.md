@@ -11,7 +11,7 @@
 <h1>AI-Generated Images as Data Source: The Dawn of Synthetic Era [<a href="https://arxiv.org/abs/2310.01830">Paper</a>]</h1>  
 
 <div>
-    Zuhao Yang</a>&emsp;
+    <a href='https://mwxely.github.io/' target='_blank'>Zuhao Yang</a>&emsp;
     <a href='https://fnzhan.com/' target='_blank'>Fangneng Zhan</a>&emsp;
     <a href='https://kunhao-liu.github.io/' target='_blank'>Kunhao Liu</a>&emsp;
     Muyu Xu</a>&emsp;
