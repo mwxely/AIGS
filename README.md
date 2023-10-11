@@ -206,6 +206,8 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2303.10340)]
 <a id="Classification-link"></a>
 
 **This Dataset Does Not Exist: Training Models from Generated Images**  
+*Victor Besnier, Himalaya Jain, Andrei Bursuc, Matthieu Cord, Patrick Pérez*  
+ICASSP 2020 [[Paper](https://arxiv.org/abs/1911.02888)][[Project](https://valeoai.github.io/blog/publications/gan-dataset/)]
 
 **OpenGAN: Open-Set Recognition via Open Data Generation**  
 *Shu Kong, Deva Ramanan*  
@@ -216,30 +218,52 @@ ICCV 2021 [[Paper](https://arxiv.org/abs/2104.02939)][[Project](https://www.cs.c
 ICLR 2023 [[Paper](https://arxiv.org/abs/2206.09592)][[Code](https://github.com/CVMI-Lab/SyntheticData)]
 
 **Fake it till you make it: Learning transferable representations from synthetic ImageNet clones**  
+*Mert Bulent Sariyildiz, Karteek Alahari, Diane Larlus, Yannis Kalantidis*  
+CVPR 2023 [[Paper](https://arxiv.org/abs/2212.08420)][[Video](https://www.youtube.com/watch?v=C8cCvXBNvCI)]
 
 **Training on Thin Air: Improve Image Classification with Generated Data**  
+*Yongchao Zhou, Hshmat Sahak, Jimmy Ba*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2305.15316)][[Project](https://sites.google.com/view/diffusion-inversion)][[Code](https://github.com/yongchao97/diffusion_inversion)]
 
-**Not just pretty pictures: Text-to-image generators enable interpretable interventions for robust representations**  
+**Not Just Pretty Pictures: Text-to-Image Generators Enable Interpretable Interventions for Robust Representations**  
+*Jianhao Yuan, Francesco Pinto, Adam Davies, Aarushi Gupta, Philip Torr*  
+arXiv 2022 [[Paper](https://arxiv.org/abs/2212.11237)]
 
 **Diversity is Definitely Needed: Improving Model-Agnostic Zero-shot Classification via Stable Diffusion**  
+*Jordan Shipard, Arnold Wiliem, Kien Nguyen Thanh, Wei Xiang, Clinton Fookes*  
+CVPRW 2023 [[Paper](https://arxiv.org/abs/2302.03298)]
 
-**Leaving reality to imagination: Robust classification via generated datasets**  
+**Leaving Reality to Imagination: Robust Classification via Generated Datasets**  
+*Hritik Bansal, Aditya Grover*  
+arXiv 2022 [[Paper](https://arxiv.org/abs/2302.02503)][[Code](https://github.com/Hritikbansal/generative-robustness)]
 
 **Image Captions are Natural Prompts for Text-to-Image Models**  
+*Shiye Lei, Hao Chen, Sen Zhang, Bo Zhao, Dacheng Tao*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2307.08526)]
 
-**Diversify your vision datasets with automatic diffusion-based augmentation**  
+**Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation**  
+*Lisa Dunlap, Alyssa Umino, Han Zhang, Jiezhi Yang, Joseph E. Gonzalez, Trevor Darrell*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2305.16289)]
 
 **Synthetic Data from Diffusion Models Improves ImageNet Classification**  
 *Shekoofeh Azizi, Simon Kornblith, Chitwan Saharia, Mohammad Norouzi, David J. Fleet*  
-arXiv 2023 [[Paper](https://arxiv.org/abs/2304.08466)]
+arXiv 2023 [[Paper](https://arxiv.org/abs/2304.08466)][[Project](https://lisadunlap.github.io/alia-website/)][[Code](https://github.com/lisadunlap/ALIA)]
 
 **Imagic: Text-Based Real Image Editing with Diffusion Models**  
+*Bahjat Kawar, Shiran Zada, Oran Lang, Omer Tov, Huiwen Chang, Tali Dekel, Inbar Mosseri, Michal Irani*  
+CVPR 2023 [[Paper](https://arxiv.org/abs/2210.09276)][[Project](https://imagic-editing.github.io/)]
 
 **An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion**  
+*Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or*  
+ICLR 2023 [[Paper](https://arxiv.org/abs/2208.01618)][[Project](https://textual-inversion.github.io/)][[Code](https://github.com/rinongal/textual_inversion)]
 
 **Fill-Up: Balancing Long-Tailed Data with Generative Models**  
+*Joonghyuk Shin, Minguk Kang, Jaesik Park*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2306.07200)][[Project](https://joonghyuk.com/Fill-Up/)][[Code](https://github.com/alex4727/Fill-Up)]
 
 **Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels**  
+*Zebin You, Yong Zhong, Fan Bao, Jiacheng Sun, Chongxuan Li, Jun Zhu*  
+NeurIPS 2023 [[Paper](https://arxiv.org/abs/2302.10586)][[Code](https://github.com/ML-GSAI/DPT)]
 
 
 #### *Image Segmentation*
