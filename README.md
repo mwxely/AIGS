@@ -32,7 +32,7 @@ This project is associated with our survey paper which comprehensively contextua
 You are welcome to promote papers via pull request. <br>
 The process to submit a pull request:
 - a. Fork the project into your own repository.
-- b. Add the Title, Author, Conference, Paper link, Project link, and Code link in `README.md` with below format:
+- b. Add the Title, Author, Conference, Paper link, Project link, Code link, and Video link in `README.md` with below format:
 ```
 **Title**<br>
 *Author*<br>
