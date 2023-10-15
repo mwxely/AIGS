@@ -511,6 +511,10 @@ CVPRW 2023 [[Paper](https://arxiv.org/abs/2304.03536)]
 #### *Testing Data*
 <a id="Test-link"></a>
 
+**4D Gaussian Splatting for Real-Time Dynamic Scene Rendering**  
+*Guanjun Wu, Taoran Yi, Jiemin Fang, Lingxi Xie, Xiaopeng Zhang, Wei Wei, Wenyu Liu, Qi Tian, Xinggang Wang*  
+arXiv 2023 [[Paper](https://arxiv.org/abs/2310.08528)][[Project](https://guanjunwu.github.io/4dgs/index.html)][[Code](https://github.com/hustvl/4DGaussians)]
+
 **Benchmarking Deepart Detection**  
 *Yabin Wang, Zhiwu Huang, Xiaopeng Hong*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2302.14475)]
