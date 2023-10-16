@@ -8,7 +8,7 @@
 
 <div align="center">
   
-<h1>AI-Generated Images as Data Source: The Dawn of Synthetic Era [<a href="https://arxiv.org/abs/2310.01830">Paper</a>]</h1>  
+<h1>AI-Generated Images as Data Sources: The Dawn of Synthetic Era [<a href="https://arxiv.org/abs/2310.01830">Paper</a>]</h1>  
 
 <div>
     <a href='https://mwxely.github.io/' target='_blank'>Zuhao Yang</a>&emsp;
@@ -26,7 +26,7 @@
 
 <br><img src='teaser.png' align="center"><br>
 
-This project is associated with our survey paper which comprehensively contextualizes the advance of the recent **AI**-**G**enerated Images as Data **S**ource (**AIGS**) and visual AIGC by formulating taxonomies according to methodologies and applications.
+This project is associated with our survey paper which comprehensively contextualizes the advance of the recent **AI**-**G**enerated Images as Data **S**ources (**AIGS**) and visual AIGC by formulating taxonomies according to methodologies and applications.
 
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 You are welcome to promote papers via pull request. <br>
