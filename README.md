@@ -51,6 +51,10 @@ Conference
 *Yingzhou Lu, Minjie Shen, Huazheng Wang, Wenqi Wei*  
 arXiv 2023 [[Paper](https://arxiv.org/abs/2302.04062)]
 
+**Synthetic Image Data for Deep Learning**  
+*Jason W Anderson, Marcin Ziolkowski, Ken Kennedy, Amy W Apon*  
+arXiv 2022 [[Paper](https://arxiv.org/abs/2212.06232)]
+
 **Synthetic Data in Human Analysis: A Survey**  
 *Indu Joshi, Marcel Grimmer, Christian Rathgeb, Christoph Busch, Francois Bremond, Antitza Dantcheva*  
 arXiv 2022 [[Paper](https://arxiv.org/abs/2208.09191)]
