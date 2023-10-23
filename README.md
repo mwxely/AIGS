@@ -88,7 +88,7 @@ Applications:
   - [Robotics](#Robotics-link)
   - [Autonomous Driving](#AutonomousDriving-link)
 - [Other Applications](#OtherApplications-link)
-  - [Medical](#Medical-link)
+  - [Medical Data](#Medical-link)
   - [Testing Data](#Test-link)
 
 Datasets:
@@ -481,7 +481,7 @@ CICAI 2023 [[Paper](https://arxiv.org/abs/2307.15058)][[Project](https://open-ai
 ### Other Applications
 <a id="OtherApplications-link"></a>
 
-#### *Medical*
+#### *Medical Data*
 <a id="Medical-link"></a>
 
 **[MedGAN] Generating Multi-label Discrete Patient Records using Generative Adversarial Networks**  
