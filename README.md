@@ -88,8 +88,8 @@ Applications:
   - [Robotics](#Robotics-link)
   - [Autonomous Driving](#AutonomousDriving-link)
 - [Other Applications](#OtherApplications-link)
-  - [Medical Data](#Medical-link)
-  - [Testing Data](#Test-link)
+  - [Medical Data Synthesis](#Medical-link)
+  - [Testing Data Synthesis](#Test-link)
 
 Datasets:
   - [Text-image Aligned](#TextimageAligned-link)
@@ -481,7 +481,7 @@ CICAI 2023 [[Paper](https://arxiv.org/abs/2307.15058)][[Project](https://open-ai
 ### Other Applications
 <a id="OtherApplications-link"></a>
 
-#### *Medical Data*
+#### *Medical Data Synthesis*
 <a id="Medical-link"></a>
 
 **[MedGAN] Generating Multi-label Discrete Patient Records using Generative Adversarial Networks**  
@@ -512,7 +512,7 @@ ISBI 2018 [[Paper](https://arxiv.org/abs/1801.02385)]
 *Hazrat Ali, Christer Gronlund, Zubair Shah*  
 CVPRW 2023 [[Paper](https://arxiv.org/abs/2304.03536)]
 
-#### *Testing Data*
+#### *Testing Data Synthesis*
 <a id="Test-link"></a>
 
 **4D Gaussian Splatting for Real-Time Dynamic Scene Rendering**  
